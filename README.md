@@ -107,4 +107,4 @@ Agents in Multi-Agent Simulations."** *Philipp Maas (Fable Studio) et al.* prepr
 
 We greatly appreciate any contributions via PRs, issues, emails, or other methods.
 
-The repository is initially built and maintained by Yupeng Hou ([yphou@ucsd.edu](mailto:yphou@ucsd.edu)).
+The repository is initially built and maintained by [Yupeng Hou](https://yupenghou.com/) ([yphou@ucsd.edu](mailto:yphou@ucsd.edu)).
