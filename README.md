@@ -98,7 +98,8 @@ Agents in Multi-Agent Simulations."** *Philipp Maas (Fable Studio) et al.* prepr
 
 ## Perspectives
 
-* [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent) - Amazing blog by Lilian Weng, June 23, 2023.
+* [KokoMind: Can LLMs Understand Social Interactions?](https://chats-lab.github.io/KokoMind/) - Imagine an AI 🤖 at a cocktail party 🍻, Weiyan Shi (Columbia) et al., Jul 2023
+* [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent) - Amazing blog by Lilian Weng, Jun 23 2023.
 
 ## Other Related Sources
 
