@@ -46,6 +46,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 * [Jul 2023] **"Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration."** *Zhenhailong Wang (UIUC & MSRA) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.05300)] [[code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
 * [Jul 2023] **"Wireless Multi-Agent Generative AI: From Connected Intelligence to Collective Intelligence."** *Hang Zou (Technology Innovation Institute, UAE) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.02757)]
+* [Jun 2023] **"Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents."** *Yashar Talebirad (UAlberta) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.03314)]
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate."** *Tian Liang (THU & Tencent) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.19118)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
 * [May 2023] **"Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback."** *Yao Fu (U of Edinburgh) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.10142)] [[code](https://github.com/FranxYao/GPT-Bargaining)]
 
@@ -58,6 +59,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 🔥 [Jun 2023] **"Mind2Web: Towards a Generalist Agent for the Web."** *Xiang Deng (OSU) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.06070)] [[code](https://github.com/OSU-NLP-Group/Mind2Web)] [[project page](https://osu-nlp-group.github.io/Mind2Web)]
 * [May 2023] **"Mobile-Env: An Evaluation Platform and Benchmark for Interactive Agents in LLM Era."** *Danyang Zhang (SJTU) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.08144)] [[code](https://github.com/X-LANCE/Mobile-Env)]
 * 📖 [Apr 2023] **"Emergent autonomous scientific research capabilities of large language models."** *Daniil A. Boiko (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2304.05332)]
+* [Mar 2023] **"Language Models can Solve Computer Tasks."** *Geunwoo Kim (UCI) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.17491)] [[code](https://github.com/posgnu/rci-agent)] [[project page](https://posgnu.github.io/rci-web)]
 * 📖 [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents."** *Shunyu Yao (Princeton) et al.* NeurIPS 2022. [[paper](https://arxiv.org/abs/2207.01206)] [[code](https://github.com/princeton-nlp/WebShop)] [[project page](https://webshop-pnlp.github.io)]
 
 ##### RL Agents
@@ -68,6 +70,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Robotics & Embodied AI
 
+* [Jun 2023] **"Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach."** *Bin Hu (Zhejiang Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.03604)] [[code](https://github.com/ZJLAB-AMMI/LLM4RL)]
 * 🔥 [May 2023] **"Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory."** *Xizhou Zhu (THU & SenseTim) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.17144)] [[code](https://github.com/OpenGVLab/GITM)]
 * 🔥 [May 2023] **"Voyager: An Open-Ended Embodied Agent with Large Language Models."** *Guanzhi Wang (NVIDIA & Caltech) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.16291)] [[code](https://github.com/MineDojo/Voyager)] [[project page](https://voyager.minedojo.org)]
 * [May 2023] **"Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents."** *Yue Wu (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.02412)]
@@ -78,6 +81,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Gaming & Role-Playing
 
+* [May 2023] **"Role-Play with Large Language Models."** *Murray Shanahan (DeepMind & ICL) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.16367)]
 * [May 2023] **"clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents."** *Kranti Chalamalasetti (University of Potsdam) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.13455)] [[code](https://github.com/clp-research/clembench)]
 * 🔥 [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society."** *Guohao Li (KAUST) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.17760)] [[code](https://github.com/camel-ai/camel)] [[project page](https://www.camel-ai.org)]
 
@@ -89,10 +93,12 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ### Human Interaction Simulation
 
 * [Jul 2023] **"Are you in a Masquerade? Exploring the Behavior and Impact of Large Language Model Driven Social Bots in Online Social Networks."** *Siyu Li (SCU) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.10337)] [[dataset](https://github.com/Litsay/Masquerade-23)]
-* [Jul 2023] **"To Infinity and Beyond: SHOW-1 and Showrunner Agents in Multi-Agent Simulations."** *Philipp Maas (Fable Studio) et al.* preprint. [[paper](https://fablestudio.github.io/showrunner-agents/static/pdfs/To_Infinity_and_Beyond_SHOW-1_And_Showrunner_Agents_in_Multi_Agent_Simulations_v2.pdf)] [[project page](https://fablestudio.github.io/showrunner-agents)]
 * [Jul 2023] **"Communicative Agents for Software Development."** *Chen Qian (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.07924)]
+* [Jul 2023] **"Epidemic Modeling with Generative Agents."** *Ross Williams (Virginia Tech) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.04986)] [[code](https://github.com/bear96/GABM-Epidemic)]
+* [Jul 2023] **"To Infinity and Beyond: SHOW-1 and Showrunner Agents in Multi-Agent Simulations."** *Philipp Maas (Fable Studio) et al.* preprint. [[paper](https://fablestudio.github.io/showrunner-agents/static/pdfs/To_Infinity_and_Beyond_SHOW-1_And_Showrunner_Agents_in_Multi_Agent_Simulations_v2.pdf)] [[project page](https://fablestudio.github.io/showrunner-agents)]
 * [Jun 2023] **"RecAgent: A Novel Simulation Paradigm for Recommender Systems."** *Lei Wang (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.02552)] [[code](https://github.com/RUC-GSAI/YuLan-Rec)]
 * [May 2023] **"Playing repeated games with Large Language Models."** *Elif Akata (U of Tübingen) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.16867)]
+* [May 2023] **"The Role of Summarization in Generative Agents: A Preliminary Perspective."** *Xiachong Feng (HIT) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.01253)]
 * [Apr 2023] **"Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models."** *Jimmy Wei (Cornell & Meta) et al.* arXiv. [[paper](https://arxiv.org/abs/2304.13835)] [[dataset](https://github.com/facebookresearch/LIGHT/tree/main/light/modeling/tasks/multilight)] [[code](https://github.com/facebookresearch/LIGHT/tree/main/crowdsourcing/dialogues/multi_party_chat)]
 * 🔥 [Apr 2023] **"Generative Agents: Interactive Simulacra of Human Behavior."** *Joon Sung Park (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2304.03442)]
 
