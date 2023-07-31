@@ -10,7 +10,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 -----
 
-<i style="color: red;">New!</i> **Call for Papers** - [Personalized Generative AI](https://sites.google.com/view/pgai2023) @ CIKM'23 - Submissions relating to LLM-powered agents are highly welcomed and valued!
+<i style="color: red;">New!</i> **Call for Papers** until Aug 25, 2023 - [Personalized Generative AI](https://sites.google.com/view/pgai2023) @ CIKM'23 - Submissions relating to LLM-powered agents are highly welcomed and valued!
 
 -----
 
