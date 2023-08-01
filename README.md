@@ -56,6 +56,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [Jul 2023] **"Building Cooperative Embodied Agents Modularly with Large Language Models."** *Hongxin Zhang (UMass) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.02485)] [[code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents)] [[project page](https://vis-www.cs.umass.edu/Co-LLM-Agents)]
 * [Jun 2023] **"Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents."** *Yashar Talebirad (UAlberta) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.03314)]
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate."** *Tian Liang (THU & Tencent) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.19118)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
+* 🔥 [May 2023] **"Large Language Models as Tool Makers."** *Tianle Cai (Deepmind & Princeton) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.17126)] [[code](https://github.com/ctlllll/LLM-ToolMaker)]
 * [May 2023] **"Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback."** *Yao Fu (U of Edinburgh) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.10142)] [[code](https://github.com/FranxYao/GPT-Bargaining)]
 
 #### Application
