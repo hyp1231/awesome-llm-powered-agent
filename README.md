@@ -151,6 +151,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ## Acknowledgement
 
-We greatly appreciate any contributions via PRs, issues, emails, or other methods.
+We greatly appreciate any contributions via PRs, issues, emails, or other methods. Thanks Tianle Cai ([@ctlllll](https://github.com/ctlllll)) and many others for their kind suggestions and contributions. ❤️
 
 The repository is initially built and maintained by [Yupeng Hou](https://yupenghou.com/) ([yphou@ucsd.edu](mailto:yphou@ucsd.edu)).
