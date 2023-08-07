@@ -43,6 +43,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Single Agent
 
+* [Aug 2023] **"Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization."** *Weiran Yao (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.02151)]
 * [May 2023] **"SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks."** *Bill Yuchen Lin (AI2) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.17390)] [[code](https://github.com/yuchenlin/swiftsage)] [[project page](https://yuchenlin.xyz/swiftsage)]
 * 🔥 [May 2022] **"Reasoning with Language Model is Planning with World Model."** *Shibo Hao (UCSD) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.14992)] [[code](https://github.com/Ber666/llm-reasoners)] [[project page](https://www.llm-reasoners.net/)]
 * [May 2023] **"ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models."** *Zhipeng Chen (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.14323)] [[code](https://github.com/RUCAIBOX/ChatCoT)]
