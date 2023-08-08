@@ -25,7 +25,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
       - [Gaming & Role-Playing](#gaming--role-playing)
       - [Other Applications](#other-applications)
   - [Human Interaction Simulation](#human-interaction-simulation)
+  - [Human-Agent Interaction](#human-agent-interaction)
   - [Agents-Powered LLMs](#agents-powered-llms)
+  - [Benchmark](#benchmark)
   - [Survey](#survey)
 - [Open-Source Projects](#open-source-projects)
   - [Autonomous Task Solver Projects](#autonomous-task-solver-projects)
@@ -107,7 +109,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ##### Other Applications
 
 * [Aug 2023] **"The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models."** *Haonan Li (UCR) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.00245)]
-* [Jul 2023] **"Understanding the Benefits and Challenges of Using Large Language Model-based Conversational Agents for Mental Well-being Support."** *Zilin Ma (Harvard) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.15810)]
 * [Jun 2023] **"Towards Autonomous Testing Agents via Conversational Large Language Models."** *Robert Feldt (Chalmers University of Technology) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.05152)]
 * 🔥 [Mar 2023] **"HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face."** *Yongliang Shen (ZJU & MSRA) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.17580)] [[code](https://github.com/microsoft/JARVIS)]
 
@@ -124,10 +125,21 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [Apr 2023] **"Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models."** *Jimmy Wei (Cornell & Meta) et al.* arXiv. [[paper](https://arxiv.org/abs/2304.13835)] [[dataset](https://github.com/facebookresearch/LIGHT/tree/main/light/modeling/tasks/multilight)] [[code](https://github.com/facebookresearch/LIGHT/tree/main/crowdsourcing/dialogues/multi_party_chat)]
 * 🔥 [Apr 2023] **"Generative Agents: Interactive Simulacra of Human Behavior."** *Joon Sung Park (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
 
+### Human-Agent Interaction
+
+* [Aug 2023] **"Quantifying the Impact of Large Language Models on Collective Opinion Dynamics."** *Chao Li (ZJU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03313)]
+* [Aug 2023] **"SAPIEN: Affective Virtual Agents Powered by Large Language Models."** *Masum Hasan (U of Rochester) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03022)]
+* [Jul 2023] **"Understanding the Benefits and Challenges of Using Large Language Model-based Conversational Agents for Mental Well-being Support."** *Zilin Ma (Harvard) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.15810)]
+
 ### Agents-Powered LLMs
 
 * 🔥 [May 2023] **"Training Socially Aligned Language Models in Simulated Human Society."** *Ruibo Liu (Dartmouth) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.16960)] [[code](https://github.com/agi-templar/Stable-Alignment)]
 * [May 2023] **"Language Models Meet World Models: Embodied Experiences Enhance Language Models."** *Jiannan Xiang (UCSD) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.10626)] [[code](https://github.com/szxiangjn/world-model-for-language-model)]
+
+### Benchmark
+
+* [Aug 2023] **"AgentBench: Evaluating LLMs as Agents."** *Xiao Liu (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03688)] [[code](https://github.com/THUDM/AgentBench)] [[project page](https://llmbench.ai/)]
+* [Aug 2023] **"TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents."** *Jingqing Ruan (SenseTime) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03427)]
 
 ### Survey
 
