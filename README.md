@@ -117,7 +117,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Trustworthy
 
-* [Aug 2023] **"Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges."** *Sivan Schwartz (IBM Research) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.05391)]
+* [Aug 2023] **"Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges."** *Sivan Schwartz (IBM Research) et al.* AutoMate @ IJCAI 2023. [[paper](https://arxiv.org/abs/2308.05391)]
 
 ### Human Interaction Simulation
 
