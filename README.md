@@ -24,6 +24,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
       - [Robotics & Embodied AI](#robotics--embodied-ai)
       - [Gaming & Role-Playing](#gaming--role-playing)
       - [Other Applications](#other-applications)
+    - [Trustworthy](#trustworthy)
   - [Human Interaction Simulation](#human-interaction-simulation)
   - [Human-Agent Interaction](#human-agent-interaction)
   - [Agents-Powered LLMs](#agents-powered-llms)
@@ -113,6 +114,10 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [Aug 2023] **"The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models."** *Haonan Li (UCR) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.00245)]
 * [Jun 2023] **"Towards Autonomous Testing Agents via Conversational Large Language Models."** *Robert Feldt (Chalmers University of Technology) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.05152)]
 * 🔥 [Mar 2023] **"HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face."** *Yongliang Shen (ZJU & MSRA) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.17580)] [[code](https://github.com/microsoft/JARVIS)]
+
+#### Trustworthy
+
+* [Aug 2023] **"Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges."** *Sivan Schwartz (IBM Research) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.05391)]
 
 ### Human Interaction Simulation
 
