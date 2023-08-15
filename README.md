@@ -16,7 +16,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [Papers](#papers)
   - [Autonomous Task Solver](#autonomous-task-solver)
-    - [General Single Agent](#general-single-agent)
+    - [General Reasoning & Planning & Tool Using](#general-reasoning--planning--tool-using)
     - [Multi-Agent Cooperation](#multi-agent-cooperation)
     - [Application](#application)
       - [Web Agents](#web-agents)
@@ -44,17 +44,20 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### Autonomous Task Solver
 
-#### General Single Agent
+#### General Reasoning & Planning & Tool Using
 
+* [Aug 2023] **"Dynamic Planning with a LLM."** *Gautier Dagan (U of Edinburgh) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.06391)] [[code](https://github.com/itl-ed/llm-dp)]
 * [Aug 2023] **"Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization."** *Weiran Yao (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.02151)]
 * [May 2023] **"SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks."** *Bill Yuchen Lin (AI2) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.17390)] [[code](https://github.com/yuchenlin/swiftsage)] [[project page](https://yuchenlin.xyz/swiftsage)]
 * 🔥 [May 2022] **"Reasoning with Language Model is Planning with World Model."** *Shibo Hao (UCSD) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.14992)] [[code](https://github.com/Ber666/llm-reasoners)] [[project page](https://www.llm-reasoners.net/)]
 * [May 2023] **"ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models."** *Zhipeng Chen (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.14323)] [[code](https://github.com/RUCAIBOX/ChatCoT)]
+* 🔥 [Apr 2023] **"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency."** *Bo Liu (UT Austin) et al.* arXiv. [[paper](https://arxiv.org/abs/2304.11477)] [[code](https://github.com/Cranial-XIX/llm-pddl)]
 * 🔥 [Mar 2023] **"Reflexion: Language Agents with Verbal Reinforcement Learning."** *Noah Shinn (Northeastern) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.11366)] [[code](https://github.com/noahshinn024/reflexion)]
 * 🔥📖 [Oct 2022] **"ReAct: Synergizing Reasoning and Acting in Language Models."** *Shunyu Yao (Princeton & Google Brain) et al.* ICLR 2023. [[paper](https://arxiv.org/abs/2210.03629)] [[code](https://github.com/ysymyth/ReAct)] [[project page](https://react-lm.github.io)]
 
 #### Multi-Agent Cooperation
 
+* [Aug 2023] **"ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate."** *Chi-Min Chan (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/chanchimin/ChatEval)]
 * [Aug 2023] **"Gentopia: A Collaborative Platform for Tool-Augmented LLMs."** *Binfeng Xu et al.* arXiv. [[paper](https://arxiv.org/abs/2308.04030)] [[code](https://github.com/Gentopia-AI/Gentopia)] [[project page](https://gentopia-ai.github.io/Gentopia-AI-Homepage)]
 * 🔥 [Aug 2023] **"MetaGPT: Meta Programming for Multi-Agent Collaborative Framework."** *Sirui Hong (DeepWisdom) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
 * [Jul 2023] **"Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration."** *Zhenhailong Wang (UIUC & MSRA) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.05300)] [[code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)]
@@ -170,9 +173,11 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * ![GPTeam Stars](https://img.shields.io/github/stars/101dotxyz/GPTeam) [GPTeam](https://github.com/101dotxyz/GPTeam) - An open-source multi-agent simulation.
 * ![ChatArena Stars](https://img.shields.io/github/stars/chatarena/chatarena) [🏟 ChatArena](https://github.com/chatarena/chatarena) - Multi-agent language game environments for LLMs.
 * ![AgentVerse Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse) [🤖 AgentVerse 🪐](https://github.com/OpenBMB/AgentVerse) - A flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
+* ![AI Town Stars](https://img.shields.io/github/stars/a16z-infra/ai-town) [AI Town 🏠💻💌](https://github.com/a16z-infra/ai-town) - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 
 ## Perspectives
 
+* [Introducing XLang: An Open-Source Framework for Building Language Model Agents via Executable Language Grounding](https://www.xlang.ai/blog/xlang-intro) - XLANG Lab, Aug 9, 2023.
 * [What are GPT Agents? A deep dive into the AI interface of the future](https://logankilpatrick.medium.com/what-are-gpt-agents-a-deep-dive-into-the-ai-interface-of-the-future-3c376dcb0824) - Learn why Agents are a core part of the future of AI, Logan Kilpatrick (OpenAI), Jul 25, 2023.
 * [Language Agents in the Digital World: Opportunities and Risks](https://princeton-nlp.github.io/language-agent-impact) - Shunyu Yao (Princeton) et al., Jul 24, 2023.
 * [KokoMind: Can LLMs Understand Social Interactions?](https://chats-lab.github.io/KokoMind/) - Imagine an AI 🤖 at a cocktail party 🍻, Weiyan Shi (Columbia) et al., Jul, 2023
