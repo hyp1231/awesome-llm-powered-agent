@@ -189,6 +189,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ## Other Related Sources
 
 * [Personalized Generative AI](https://sites.google.com/view/pgai2023) @ CIKM'23
+* [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers about LLM role playing, memory mechanism and LLM game playing.
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read papers on multiagents of LLMs.
 * [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - A curated list of awesome LLM agents.
 
