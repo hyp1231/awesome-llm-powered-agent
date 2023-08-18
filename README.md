@@ -60,6 +60,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 * [Aug 2023] **"AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework."** *Qingyun Wu et al.* arXiv. [[paper](https://arxiv.org/abs/2308.08155)] [[project page](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen)]
 * [Aug 2023] **"ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate."** *Chi-Min Chan (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/chanchimin/ChatEval)]
+* [Aug 2023] **"LLM As DBA."** *Xuanhe Zhou (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.05481)] [[code](https://github.com/TsinghuaDatabaseGroup/DB-GPT)]
 * [Aug 2023] **"Gentopia: A Collaborative Platform for Tool-Augmented LLMs."** *Binfeng Xu et al.* arXiv. [[paper](https://arxiv.org/abs/2308.04030)] [[code](https://github.com/Gentopia-AI/Gentopia)] [[project page](https://gentopia-ai.github.io/Gentopia-AI-Homepage)]
 * 🔥 [Aug 2023] **"MetaGPT: Meta Programming for Multi-Agent Collaborative Framework."** *Sirui Hong (DeepWisdom) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
 * [Jul 2023] **"PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations."** *Ruosen Li (UT Dallas) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.02762)] [[project page](https://bcdnlp.github.io/PR_LLM_EVAL/)][[code](https://github.com/bcdnlp/PRD)]
