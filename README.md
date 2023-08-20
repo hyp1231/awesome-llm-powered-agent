@@ -156,7 +156,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### Benchmark
 
-* [Aug 2023] **"BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents."** *Zhiwei Liu (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.05960)] [[code](https://github.com/salesforce/BOLAA) (not available)]
+* [Aug 2023] **"BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents."** *Zhiwei Liu (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.05960)] [[code](https://github.com/salesforce/BOLAA)]
 * 🔥 [Aug 2023] **"AgentBench: Evaluating LLMs as Agents."** *Xiao Liu (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03688)] [[code](https://github.com/THUDM/AgentBench)] [[project page](https://llmbench.ai/)]
 * [Aug 2023] **"TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents."** *Jingqing Ruan (SenseTime) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03427)]
 
@@ -171,15 +171,15 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * ![Auto-GPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 * ![LangChain Stars](https://img.shields.io/github/stars/langchain-ai/langchain) [🦜️🔗 LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
 * ![GPT Engineer Stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer) [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
-* ![BabyAGI Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi) [BabyAGI](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 * ![MetaGPT Stars](https://img.shields.io/github/stars/geekan/MetaGPT) [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo.
+* ![BabyAGI Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi) [BabyAGI](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 
 ### Multi-Agent Simulation Projects
 
+* ![AI Town Stars](https://img.shields.io/github/stars/a16z-infra/ai-town) [AI Town 🏠💻💌](https://github.com/a16z-infra/ai-town) - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 * ![GPTeam Stars](https://img.shields.io/github/stars/101dotxyz/GPTeam) [GPTeam](https://github.com/101dotxyz/GPTeam) - An open-source multi-agent simulation.
 * ![ChatArena Stars](https://img.shields.io/github/stars/chatarena/chatarena) [🏟 ChatArena](https://github.com/chatarena/chatarena) - Multi-agent language game environments for LLMs.
 * ![AgentVerse Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse) [🤖 AgentVerse 🪐](https://github.com/OpenBMB/AgentVerse) - A flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
-* ![AI Town Stars](https://img.shields.io/github/stars/a16z-infra/ai-town) [AI Town 🏠💻💌](https://github.com/a16z-infra/ai-town) - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 
 ## Perspectives
 
