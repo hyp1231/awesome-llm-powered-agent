@@ -60,6 +60,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Multi-Agent Cooperation
 
+* [Aug 2023] **"ProAgent: Building Proactive Cooperative AI with Large Language Models."** *Ceyao Zhang (CUHK & PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11339)] [[project page](https://pku-proagent.github.io)]
 * 🔥 [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents."** *Weize Chen (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
 * [Aug 2023] **"GPT-in-the-Loop: Adaptive Decision-Making for Multiagent Systems."** *Nathalia Nascimento (U of Waterloo) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10435)]
 * [Aug 2023] **"How susceptible are LLMs to Logical Fallacies?"** *Amirreza Payandeh (GMU & Vail Systems) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.09853)] [[code](https://github.com/Amir-pyh/LOGICOM)]
@@ -126,6 +127,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Aug 2023] **"Is There Any Social Principle for LLM-Based Agents?"** *Jitao Bai (TJU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11136)]
 * [Aug 2023] **"ChatEDA: A Large Language Model Powered
 Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10204)]
 * [Aug 2023] **"The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models."** *Haonan Li (UCR) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.00245)]
@@ -170,6 +172,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Survey
 
+* [Aug 2023] **"A Survey on Large Language Model based Autonomous Agents."** *Lei Wang (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11432)] [[GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 * 🔥 [Mar 2023] **"A Survey of Large Language Models** (Sec. 6.3 - Planning for Complex Task Solving)." *Wayne Xin Zhao (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.18223)] [[GitHub](https://github.com/RUCAIBox/LLMSurvey#planning-for-complex-task-solving)]
 
 ## Open-Source Projects
