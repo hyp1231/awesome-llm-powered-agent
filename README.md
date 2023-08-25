@@ -141,6 +141,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Human Interaction Simulation
 
+* [Aug 2023] **"CGMI: Configurable General Multi-Agent Interaction Framework."** *Jinxin Shi (ECNU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.12503)]
 * [Aug 2023] **"Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering."** *Edward Junprung (UC Berkeley) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.07411)] [[code](https://github.com/ejunprung/llm-agents)]
 * 🔥 [Aug 2023] **"AgentSims: An Open-Source Sandbox for Large Language Model Evaluation."** *Jiaju Lin (PTA Studio & PSU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.04026)] [[code](https://github.com/py499372727/AgentSims)] [[project page](https://agentsims.com)]
 * [Jul 2023] **"S^3: Social-network Simulation System with Large Language Model-Empowered Agents."** *Chen Gao (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.14984)]
