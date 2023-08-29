@@ -97,6 +97,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### RL Agents
 
+* [Aug 2023] **"LaGR-SEQ: Language-Guided Reinforcement Learning with Sample-Efficient Querying."** *Thommen George Karimpanal (Deakin University) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.13542)] [[code](https://github.com/GKthom/LaGRSEQ)]
 * [Jul 2023] **"Dialogue Shaping: Empowering Agents through NPC Interaction."** *Wei Zhou (GaTech) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.15833)]
 * [Jul 2023] **"Towards A Unified Agent with Foundation Models."** *Norman Di Palo (ICL & DeepMind) et al.* Reincarnating RL @ ICLR 2023. [[paper](https://arxiv.org/abs/2307.09668)]
 * [Jun 2023] **"Large Language Model Is Semi-Parametric Reinforcement Learning Agent."** *Danyang Zhang (SJTU) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.07929)]
@@ -127,6 +128,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Aug 2023] **"RecMind: Large Language Model Powered Agent For Recommendation."** *Yancheng Wang (ASU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.14296)]
+* [Aug 2023] **"LLM Powered Sim-to-real Transfer for Traffic Signal Control."** *Longchao Da (ASU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.14284)]
 * [Aug 2023] **"Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments."** *Maria Rigaki (ČVUT) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.12086)] [[code](https://anonymous.4open.science/r/NetSecGame-3951)]
 * [Aug 2023] **"Is There Any Social Principle for LLM-Based Agents?"** *Jitao Bai (TJU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11136)]
 * [Aug 2023] **"ChatEDA: A Large Language Model Powered
@@ -174,7 +177,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Survey
 
-* [Aug 2023] **"A Survey on Large Language Model based Autonomous Agents."** *Lei Wang (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11432)] [[GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey)]
+* 🔥 [Aug 2023] **"A Survey on Large Language Model based Autonomous Agents."** *Lei Wang (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11432)] [[GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 * 🔥 [Mar 2023] **"A Survey of Large Language Models** (Sec. 6.3 - Planning for Complex Task Solving)." *Wayne Xin Zhao (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.18223)] [[GitHub](https://github.com/RUCAIBox/LLMSurvey#planning-for-complex-task-solving)]
 
 ## Open-Source Projects
