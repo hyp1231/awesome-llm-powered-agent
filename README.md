@@ -128,6 +128,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Aug 2023] **"Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations."** *Xu Huang (USTC) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.16505)] [[code](https://github.com/AngusHuang17/LLM4CRS)]
 * [Aug 2023] **"RecMind: Large Language Model Powered Agent For Recommendation."** *Yancheng Wang (ASU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.14296)]
 * [Aug 2023] **"LLM Powered Sim-to-real Transfer for Traffic Signal Control."** *Longchao Da (ASU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.14284)]
 * [Aug 2023] **"Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments."** *Maria Rigaki (ČVUT) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.12086)] [[code](https://anonymous.4open.science/r/NetSecGame-3951)]
