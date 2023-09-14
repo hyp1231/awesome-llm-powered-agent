@@ -46,6 +46,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Reasoning & Planning & Tool Using
 
+* 🔥 [Sep 2023] **"Cognitive Architectures for Language Agents."** *Theodore Sumers (Princeton) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.02427)] [[repo](https://github.com/ysymyth/awesome-language-agents)]
+* [Sep 2023] **"Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning."** *Shaohui Peng (CAS) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.01352)]
 * [Aug 2023] **"ExpeL: LLM Agents Are Experiential Learners."** *Andrew Zhao (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10144)]
 * [Aug 2023] **"Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis."** *Oscar J. Romero (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.09830)]
 * [Aug 2023] **"Dynamic Planning with a LLM."** *Gautier Dagan (U of Edinburgh) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.06391)] [[code](https://github.com/itl-ed/llm-dp)]
@@ -105,6 +107,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Robotics & Embodied AI
 
+* [Sep 2023] **"SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments."** *Abhinav Rajvanshi (SRI International) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.04077)]
+* [Sep 2023] **"Developmental Scaffolding with Large Language Models."** *M. Batuhan Celik (Bogazici University) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.00904)]
 * [Jul 2023] **"March in Chat: Interactive Prompting for Remote Embodied Referring Expression."** *Yanyuan Qiao (Adelaide University) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10141)] [[code](https://github.com/YanyuanQiao/MiC)]
 * [Aug 2023] **"A^2Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models."** *Peihao Chen (SCUT) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.07997)]
 * [Jul 2023] **"Embodied Task Planning with Large Language Models."** *Zhenyu Wu (BUPT) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.01848)] [[code](https://github.com/Gary3410/TaPA)] [[project page](https://gary3410.github.io/TaPA/)]
@@ -128,6 +132,10 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Sep 2023] **"An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents."** *Maximilian Croissant (UOY) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.05076)]
+* [Sep 2023] **"Unleashing the Power of Graph Learning through LLM-based Autonomous Agents."** *Lanning Wei (CAS & 4Paradigm) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.04565)]
+* [Sep 2023] **"TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance."** *Yang Li (SIT) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.03736)]
+* 🔥 [Sep 2023] **"ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models."** *Chenliang Li (Alibaba) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.00986)] [[code](https://github.com/modelscope/modelscope-agent)] [[demo](https://modelscope.cn/studios/damo/ModelScopeGPT/summary)]
 * [Aug 2023] **"Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations."** *Xu Huang (USTC) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.16505)] [[code](https://github.com/AngusHuang17/LLM4CRS)]
 * [Aug 2023] **"RecMind: Large Language Model Powered Agent For Recommendation."** *Yancheng Wang (ASU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.14296)]
 * [Aug 2023] **"LLM Powered Sim-to-real Transfer for Traffic Signal Control."** *Longchao Da (ASU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.14284)]
@@ -209,6 +217,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 ## Other Related Sources
 
 * [Personalized Generative AI](https://sites.google.com/view/pgai2023) @ CIKM'23
+* [awesome-langauge-agents](https://github.com/ysymyth/awesome-language-agents) - List of language agents based on paper "Cognitive Architectures for Language Agents".
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers about LLM role playing, memory mechanism and LLM game playing.
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read papers on multiagents of LLMs.
 * [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - A curated list of awesome LLM agents.
