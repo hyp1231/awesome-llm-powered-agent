@@ -18,6 +18,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
   - [Autonomous Task Solver](#autonomous-task-solver)
     - [General Reasoning & Planning & Tool Using](#general-reasoning--planning--tool-using)
     - [Multi-Agent Cooperation](#multi-agent-cooperation)
+    - [Framework & Open-Source](#framework--open-source)
     - [Application](#application)
       - [Web Agents](#web-agents)
       - [RL Agents](#rl-agents)
@@ -46,7 +47,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Reasoning & Planning & Tool Using
 
-* 🔥 [Sep 2023] **"Cognitive Architectures for Language Agents."** *Theodore Sumers (Princeton) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.02427)] [[repo](https://github.com/ysymyth/awesome-language-agents)]
 * [Sep 2023] **"Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning."** *Shaohui Peng (CAS) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.01352)]
 * [Aug 2023] **"ExpeL: LLM Agents Are Experiential Learners."** *Andrew Zhao (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10144)]
 * [Aug 2023] **"Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis."** *Oscar J. Romero (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.09830)]
@@ -83,6 +83,11 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [May 2023] **"Improving Factuality and Reasoning in Language Models through Multiagent Debate."** *Yilun Du (MIT) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.14325)] [[code](https://github.com/composable-models/llm_multiagent_debate)] [[project page](https://composable-models.github.io/llm_debate)]
 * [May 2023] **"Agreement and Statistical Efficiency in Bayesian Perception Models."** *Yash Deshpande (MIT) et al.* arXiv. [[paper](https://arxiv.org/abs/2205.11561)]
 * [May 2023] **"Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback."** *Yao Fu (U of Edinburgh) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.10142)] [[code](https://github.com/FranxYao/GPT-Bargaining)]
+
+#### Framework & Open-Source
+
+* 🔥 [Sep 2023] **"Agents: An Open-source Framework for Autonomous Language Agents."** *Wangchunshu Zhou (AI Waves) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.07870)] [[code](https://github.com/aiwaves-cn/agents)] [[project page](http://www.aiwaves-agents.com)]
+* 🔥 [Sep 2023] **"Cognitive Architectures for Language Agents."** *Theodore Sumers (Princeton) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.02427)] [[repo](https://github.com/ysymyth/awesome-language-agents)]
 
 #### Application
 
@@ -186,6 +191,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Survey
 
+* [Sep 2023] **"The Rise and Potential of Large Language Model Based Agents: A Survey."** *Zhiheng Xi (FDU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.07864)] [[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 * 🔥 [Aug 2023] **"A Survey on Large Language Model based Autonomous Agents."** *Lei Wang (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11432)] [[GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 * 🔥 [Mar 2023] **"A Survey of Large Language Models** (Sec. 6.3 - Planning for Complex Task Solving)." *Wayne Xin Zhao (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.18223)] [[GitHub](https://github.com/RUCAIBox/LLMSurvey#planning-for-complex-task-solving)]
 
@@ -217,7 +223,6 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 ## Other Related Sources
 
 * [Personalized Generative AI](https://sites.google.com/view/pgai2023) @ CIKM'23
-* [awesome-langauge-agents](https://github.com/ysymyth/awesome-language-agents) - List of language agents based on paper "Cognitive Architectures for Language Agents".
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers about LLM role playing, memory mechanism and LLM game playing.
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read papers on multiagents of LLMs.
 * [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - A curated list of awesome LLM agents.
