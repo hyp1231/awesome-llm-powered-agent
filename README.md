@@ -62,6 +62,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Multi-Agent Cooperation
 
+* [Sep 2023] **"MindAgent: Emergent Gaming Interaction."** *Ran Gong (UCLA) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.09971)] [[code](https://github.com/mindagent/mindagent)] [[project page](https://mindagent.github.io)]
 * [Aug 2023] **"ProAgent: Building Proactive Cooperative AI with Large Language Models."** *Ceyao Zhang (CUHK & PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11339)] [[project page](https://pku-proagent.github.io)]
 * 🔥 [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents."** *Weize Chen (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
 * [Aug 2023] **"GPT-in-the-Loop: Adaptive Decision-Making for Multiagent Systems."** *Nathalia Nascimento (U of Waterloo) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10435)]
@@ -93,6 +94,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Web Agents
 
+* [Sep 2023] **"LASER: LLM Agent with State-Space Exploration for Web Navigation."** *Kaixin Ma (Tencent) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.08172)] [[code](https://github.com/Mayer123/LASER)]
 * 🔥 [Jul 2023] **"WebArena: A Realistic Web Environment for Building Autonomous Agents."** *Shuyan Zhou (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.13854)] [[code](https://github.com/web-arena-x/webarena)] [[project page](https://webarena.dev)]
 * [Jul 2023] **"A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis."** *Izzeddin Gur (DeepMind) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.12856)]
 * 🔥 [Jun 2023] **"Mind2Web: Towards a Generalist Agent for the Web."** *Xiang Deng (OSU) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.06070)] [[code](https://github.com/OSU-NLP-Group/Mind2Web)] [[project page](https://osu-nlp-group.github.io/Mind2Web)]
@@ -112,6 +114,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Robotics & Embodied AI
 
+* [Sep 2023] **"SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models."** *Shyam Sundar Kannan (Purdue) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.10062)] [[project page](https://sites.google.com/view/smart-llm)]
+* [Sep 2023] **"Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents."** *Ziyi Yang et al.* arXiv. [[paper](https://arxiv.org/abs/2309.09919)] [[code & video](https://drive.google.com/drive/folders/1s1Ba-VanY0YqL8hVpkN4Xvg3PdZlStBb)]
 * [Sep 2023] **"SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments."** *Abhinav Rajvanshi (SRI International) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.04077)]
 * [Sep 2023] **"Developmental Scaffolding with Large Language Models."** *M. Batuhan Celik (Bogazici University) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.00904)]
 * [Jul 2023] **"March in Chat: Interactive Prompting for Remote Embodied Referring Expression."** *Yanyuan Qiao (Adelaide University) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10141)] [[code](https://github.com/YanyuanQiao/MiC)]
@@ -191,7 +195,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Survey
 
-* [Sep 2023] **"The Rise and Potential of Large Language Model Based Agents: A Survey."** *Zhiheng Xi (FDU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.07864)] [[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
+* 🔥 [Sep 2023] **"The Rise and Potential of Large Language Model Based Agents: A Survey."** *Zhiheng Xi (FDU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.07864)] [[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 * 🔥 [Aug 2023] **"A Survey on Large Language Model based Autonomous Agents."** *Lei Wang (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11432)] [[GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 * 🔥 [Mar 2023] **"A Survey of Large Language Models** (Sec. 6.3 - Planning for Complex Task Solving)." *Wayne Xin Zhao (RUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.18223)] [[GitHub](https://github.com/RUCAIBox/LLMSurvey#planning-for-complex-task-solving)]
 
