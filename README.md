@@ -141,6 +141,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Apr 2023] **"GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information."** *Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu* arXiv. [[paper](https://arxiv.org/abs/2304.09667)] [[code](https://github.com/ncbi/GeneGPT)]
 * [Sep 2023] **"An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents."** *Maximilian Croissant (UOY) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.05076)]
 * [Sep 2023] **"Unleashing the Power of Graph Learning through LLM-based Autonomous Agents."** *Lanning Wei (CAS & 4Paradigm) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.04565)]
 * [Sep 2023] **"TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance."** *Yang Li (SIT) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.03736)]
