@@ -141,7 +141,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
-* [Apr 2023] **"GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information."** *Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu* arXiv. [[paper](https://arxiv.org/abs/2304.09667)] [[code](https://github.com/ncbi/GeneGPT)]
 * [Sep 2023] **"An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents."** *Maximilian Croissant (UOY) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.05076)]
 * [Sep 2023] **"Unleashing the Power of Graph Learning through LLM-based Autonomous Agents."** *Lanning Wei (CAS & 4Paradigm) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.04565)]
 * [Sep 2023] **"TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance."** *Yang Li (SIT) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.03736)]
@@ -155,6 +154,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10204)]
 * [Aug 2023] **"The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models."** *Haonan Li (UCR) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.00245)]
 * [Jun 2023] **"Towards Autonomous Testing Agents via Conversational Large Language Models."** *Robert Feldt (Chalmers University of Technology) et al.* arXiv. [[paper](https://arxiv.org/abs/2306.05152)]
+* [Apr 2023] **"GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information."** *Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu* arXiv. [[paper](https://arxiv.org/abs/2304.09667)] [[code](https://github.com/ncbi/GeneGPT)]
 * 🔥 [Mar 2023] **"HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face."** *Yongliang Shen (ZJU & MSRA) et al.* arXiv. [[paper](https://arxiv.org/abs/2303.17580)] [[code](https://github.com/microsoft/JARVIS)]
 
 #### Trustworthy
@@ -234,6 +234,6 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ## Acknowledgement
 
-We greatly appreciate any contributions via PRs, issues, emails, or other methods. Thanks Tianle Cai ([@ctlllll](https://github.com/ctlllll)), Yifan Song ([@Yifan-Song793](https://github.com/Yifan-Song793)), Xinya Du ([@xinyadu](https://github.com/xinyadu)), Binfeng Xu ([@billxbf](https://github.com/billxbf)), Xuanhe Zhou ([@zhouxh19](https://github.com/zhouxh19)), Boyuan Zheng ([@boyuanzheng010](https://github.com/boyuanzheng010)) and many others for their kind suggestions and contributions. ❤️
+We greatly appreciate any contributions via PRs, issues, emails, or other methods. Thanks Tianle Cai ([@ctlllll](https://github.com/ctlllll)), Yifan Song ([@Yifan-Song793](https://github.com/Yifan-Song793)), Xinya Du ([@xinyadu](https://github.com/xinyadu)), Binfeng Xu ([@billxbf](https://github.com/billxbf)), Xuanhe Zhou ([@zhouxh19](https://github.com/zhouxh19)), Boyuan Zheng ([@boyuanzheng010](https://github.com/boyuanzheng010)), Qiao Jin ([@Andy-jqa](https://github.com/Andy-jqa)) and many others for their kind suggestions and contributions. ❤️
 
 The repository is initially built and maintained by [Yupeng Hou](https://yupenghou.com/) ([yphou@ucsd.edu](mailto:yphou@ucsd.edu)).
