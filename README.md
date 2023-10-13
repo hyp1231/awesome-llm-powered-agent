@@ -47,6 +47,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Reasoning & Planning & Tool Using
 
+* [Oct 2023] **"Adapting LLM Agents Through Communication."** *Kuan Wang (GaTech & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01444)]
 * [Sep 2023] **"Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency."** *Zhihan Liu (Northwestern) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17382)]
 * [Sep 2023] **"Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning."** *Shaohui Peng (CAS) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.01352)]
 * [Aug 2023] **"ExpeL: LLM Agents Are Experiential Learners."** *Andrew Zhao (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10144)]
@@ -63,6 +64,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Multi-Agent Cooperation
 
+* [Oct 2023] **"Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration."** *Qiushi Sun (Shanghai AI Lab & NUS) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.00280)] [[code](https://github.com/QiushiSun/Corex)]
 * [Sep 2023] **"LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games."** *Sahar Abdelnabi (CISPA) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17234)] [[code](https://github.com/S-Abdelnabi/LLM-Deliberation)]
 * [Sep 2023] **"Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?"** *Yongchao Chen (MIT & Harvard) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.15943)] [[code](https://github.com/yongchao98/multi-agent-framework)] [[project page](https://yongchao98.github.io/MIT-REALM-Multi-Robot)]
 * [Sep 2023] **"ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs."** *Justin Chih-Yao Chen (UNC Chapel Hill) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.13007)] [[code](https://github.com/dinobby/ReConcile)]
@@ -112,6 +114,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### RL Agents
 
+* [Oct 2023] **"Motif: Intrinsic Motivation from Artificial Intelligence Feedback."** *Martin Klissarov (Mila & Meta & McGill) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.00166)]
 * [Sep 2023] **"RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds."** *Wanpeng Zhang (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17176)]
 * [Aug 2023] **"LaGR-SEQ: Language-Guided Reinforcement Learning with Sample-Efficient Querying."** *Thommen George Karimpanal (Deakin University) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.13542)] [[code](https://github.com/GKthom/LaGRSEQ)]
 * [Jul 2023] **"Dialogue Shaping: Empowering Agents through NPC Interaction."** *Wei Zhou (GaTech) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.15833)]
@@ -121,6 +124,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Robotics & Embodied AI
 
+* [Oct 2023] **"LANCAR: Leveraging Language for Context-Aware Robot Locomotion in Unstructured Environments."** *Chak Lam Shek (UMD) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.00481)] [[project page](https://raaslab.org/projects/LLM_Context_Estimation)]
 * [Sep 2023] **"LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent."** *Jianing Yang (UMich) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.12311)] [[code](https://github.com/sled-group/chat-with-nerf)] [[project page](https://chat-with-nerf.github.io)]
 * [Sep 2023] **"SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models."** *Shyam Sundar Kannan (Purdue) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.10062)] [[project page](https://sites.google.com/view/smart-llm)]
 * [Sep 2023] **"Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents."** *Ziyi Yang et al.* arXiv. [[paper](https://arxiv.org/abs/2309.09919)] [[code & video](https://drive.google.com/drive/folders/1s1Ba-VanY0YqL8hVpkN4Xvg3PdZlStBb)]
@@ -140,6 +144,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Gaming & Role-Playing
 
+* [Oct 2023] **"Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems."** *Robin Schmucker (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01420)]
+* [Oct 2023] **"Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation."** *Shenzhi Wang (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01320)]
 * [Sep 2023] **"Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4."** *Jiaxian Guo (U of Tokyo) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17277)] [[code](https://github.com/CR-Gjx/Suspicion-Agent)]
 * [Aug 2023] **"Ambient Adventures: Teaching ChatGPT on Developing Complex Stories."** *Zexin Chen (GaTech) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.01734)]
 * [Jul 2023] **"Tachikuma: Understading Complex Interactions with Multi-Character and Novel Objects by Large Language Models."** *Yuanzhi Liang (UTS) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.12573)]
@@ -150,6 +156,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Oct 2023] **"Voice2Action: Language Models as Agent for Efficient Real-Time Interaction in Virtual Reality."** *Yang Su (Cornell Tech).* arXiv. [[paper](https://arxiv.org/abs/2310.00092)]
 * 🔥 [Sep 2023] **"ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving."** *Zhibin Gou (THU & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17452)] [[code](https://github.com/microsoft/ToRA)] [[project page](https://microsoft.github.io/ToRA)]
 * [Sep 2023] **""Teach AI How to Code": Using Large Language Models as Teachable Agents for Programming Education."** *Hyoungwook Jin (KAIST) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.14534)]
 * [Sep 2023] **"SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model."** *Ye Jin (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.13193)]
@@ -204,6 +211,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Benchmark
 
+* [Oct 2023] **"BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents."** *Yue Wu (CMU & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01557)] [[code](https://github.com/microsoft/SmartPlay)]
 * [Aug 2023] **"BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents."** *Zhiwei Liu (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.05960)] [[code](https://github.com/salesforce/BOLAA)]
 * 🔥 [Aug 2023] **"AgentBench: Evaluating LLMs as Agents."** *Xiao Liu (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03688)] [[code](https://github.com/THUDM/AgentBench)] [[project page](https://llmbench.ai/)]
 * [Aug 2023] **"TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents."** *Jingqing Ruan (SenseTime) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03427)]
