@@ -64,6 +64,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Multi-Agent Cooperation
 
+* [Oct 2023] **"Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization."** *Zijun Liu (THU & Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02170)] [[code](https://github.com/SALT-NLP/DyLAN)]
+* [Oct 2023] **"Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View."** *Jintian Zhang (ZJU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02124)] [[code](https://github.com/zjunlp/MachineSoM)]
 * [Oct 2023] **"Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration."** *Qiushi Sun (Shanghai AI Lab & NUS) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.00280)] [[code](https://github.com/QiushiSun/Corex)]
 * [Sep 2023] **"LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games."** *Sahar Abdelnabi (CISPA) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17234)] [[code](https://github.com/S-Abdelnabi/LLM-Deliberation)]
 * [Sep 2023] **"Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?"** *Yongchao Chen (MIT & Harvard) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.15943)] [[code](https://github.com/yongchao98/multi-agent-framework)] [[project page](https://yongchao98.github.io/MIT-REALM-Multi-Robot)]
@@ -124,6 +126,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Robotics & Embodied AI
 
+* [Oct 2023] **"Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond."** *Liang Chen (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02071)] [[code](https://github.com/pkunlp-icler/PCA-EVAL)] [[project page](https://pca-eval.github.io)]
 * [Oct 2023] **"LANCAR: Leveraging Language for Context-Aware Robot Locomotion in Unstructured Environments."** *Chak Lam Shek (UMD) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.00481)] [[project page](https://raaslab.org/projects/LLM_Context_Estimation)]
 * [Sep 2023] **"LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent."** *Jianing Yang (UMich) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.12311)] [[code](https://github.com/sled-group/chat-with-nerf)] [[project page](https://chat-with-nerf.github.io)]
 * [Sep 2023] **"SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models."** *Shyam Sundar Kannan (Purdue) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.10062)] [[project page](https://sites.google.com/view/smart-llm)]
@@ -156,6 +159,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Oct 2023] **"Conversational Health Agents: A Personalized LLM-Powered Agent Framework."** *Mahyar Abbasian (UCI) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02374)]
+* [Oct 2023] **"OceanGPT: A Large Language Model for Ocean Science Tasks."** *Zhen Bi (ZJU & Donghai Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02031)] [[project page](https://www.zjukg.org/project/OceanGPT)]
 * [Oct 2023] **"Voice2Action: Language Models as Agent for Efficient Real-Time Interaction in Virtual Reality."** *Yang Su (Cornell Tech).* arXiv. [[paper](https://arxiv.org/abs/2310.00092)]
 * 🔥 [Sep 2023] **"ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving."** *Zhibin Gou (THU & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17452)] [[code](https://github.com/microsoft/ToRA)] [[project page](https://microsoft.github.io/ToRA)]
 * [Sep 2023] **""Teach AI How to Code": Using Large Language Models as Teachable Agents for Programming Education."** *Hyoungwook Jin (KAIST) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.14534)]
@@ -183,6 +188,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Human Interaction Simulation
 
+* [Oct 2023] **"Lyfe Agents: Generative agents for low-cost real-time social interactions."** *Zhao Kaiya (MIT) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02172)]
 * [Sep 2023] **"Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence."** *Navid Ghaffarzadegan (Virginia Tech) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.11456)]
 * [Aug 2023] **"CGMI: Configurable General Multi-Agent Interaction Framework."** *Jinxin Shi (ECNU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.12503)]
 * [Aug 2023] **"Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering."** *Edward Junprung (UC Berkeley) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.07411)] [[code](https://github.com/ejunprung/llm-agents)]
