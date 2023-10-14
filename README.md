@@ -52,6 +52,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [Sep 2023] **"Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning."** *Shaohui Peng (CAS) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.01352)]
 * [Aug 2023] **"ExpeL: LLM Agents Are Experiential Learners."** *Andrew Zhao (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10144)]
 * [Aug 2023] **"Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis."** *Oscar J. Romero (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.09830)]
+* [Dec 2022] **"Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments"** *Yu Gu (OSU) et al.* ACL 2023. [[paper](https://aclanthology.org/2023.acl-long.270/)] [[code](https://github.com/dki-lab/Pangu)]
 * [Aug 2023] **"Dynamic Planning with a LLM."** *Gautier Dagan (U of Edinburgh) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.06391)] [[code](https://github.com/itl-ed/llm-dp)]
 * [Aug 2023] **"Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization."** *Weiran Yao (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.02151)]
 * 🔥 [May 2023] **"ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models."** *Binfeng Xu et al.* arXiv. [[paper](https://arxiv.org/abs/2305.18323)] [[code](https://github.com/billxbf/ReWOO)]
