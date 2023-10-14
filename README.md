@@ -52,7 +52,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [Sep 2023] **"Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning."** *Shaohui Peng (CAS) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.01352)]
 * [Aug 2023] **"ExpeL: LLM Agents Are Experiential Learners."** *Andrew Zhao (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10144)]
 * [Aug 2023] **"Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis."** *Oscar J. Romero (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.09830)]
-* [Dec 2022] **"Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments"** *Yu Gu (OSU) et al.* ACL 2023. [[paper](https://aclanthology.org/2023.acl-long.270/)] [[code](https://github.com/dki-lab/Pangu)]
 * [Aug 2023] **"Dynamic Planning with a LLM."** *Gautier Dagan (U of Edinburgh) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.06391)] [[code](https://github.com/itl-ed/llm-dp)]
 * [Aug 2023] **"Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization."** *Weiran Yao (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.02151)]
 * 🔥 [May 2023] **"ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models."** *Binfeng Xu et al.* arXiv. [[paper](https://arxiv.org/abs/2305.18323)] [[code](https://github.com/billxbf/ReWOO)]
@@ -61,6 +60,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 📖 [May 2023] **"ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models."** *Zhipeng Chen (RUC) et al.* EMNLP 2023 Findings. [[paper](https://arxiv.org/abs/2305.14323)] [[code](https://github.com/RUCAIBOX/ChatCoT)]
 * 🔥 [Apr 2023] **"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency."** *Bo Liu (UT Austin) et al.* arXiv. [[paper](https://arxiv.org/abs/2304.11477)] [[code](https://github.com/Cranial-XIX/llm-pddl)]
 * 🔥📖 [Mar 2023] **"Reflexion: Language Agents with Verbal Reinforcement Learning."** *Noah Shinn (Northeastern) et al.* NeurIPS 2023. [[paper](https://arxiv.org/abs/2303.11366)] [[code](https://github.com/noahshinn024/reflexion)]
+* 📖 [Dec 2022] **"Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments"** *Yu Gu (OSU) et al.* ACL 2023. [[paper](https://aclanthology.org/2023.acl-long.270/)] [[code](https://github.com/dki-lab/Pangu)]
 * 🔥📖 [Oct 2022] **"ReAct: Synergizing Reasoning and Acting in Language Models."** *Shunyu Yao (Princeton & Google Brain) et al.* ICLR 2023. [[paper](https://arxiv.org/abs/2210.03629)] [[code](https://github.com/ysymyth/ReAct)] [[project page](https://react-lm.github.io)]
 
 #### Multi-Agent Cooperation
@@ -259,6 +259,6 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ## Acknowledgement
 
-We greatly appreciate any contributions via PRs, issues, emails, or other methods. Thanks Tianle Cai ([@ctlllll](https://github.com/ctlllll)), Yifan Song ([@Yifan-Song793](https://github.com/Yifan-Song793)), Xinya Du ([@xinyadu](https://github.com/xinyadu)), Binfeng Xu ([@billxbf](https://github.com/billxbf)), Xuanhe Zhou ([@zhouxh19](https://github.com/zhouxh19)), Boyuan Zheng ([@boyuanzheng010](https://github.com/boyuanzheng010)), Qiao Jin ([@Andy-jqa](https://github.com/Andy-jqa)), Shenao Zhang ([@shenao-zhang](https://github.com/shenao-zhang)) and many others for their kind suggestions and contributions. ❤️
+We greatly appreciate any contributions via PRs, issues, emails, or other methods. Thanks Tianle Cai ([@ctlllll](https://github.com/ctlllll)), Yifan Song ([@Yifan-Song793](https://github.com/Yifan-Song793)), Xinya Du ([@xinyadu](https://github.com/xinyadu)), Binfeng Xu ([@billxbf](https://github.com/billxbf)), Xuanhe Zhou ([@zhouxh19](https://github.com/zhouxh19)), Boyuan Zheng ([@boyuanzheng010](https://github.com/boyuanzheng010)), Qiao Jin ([@Andy-jqa](https://github.com/Andy-jqa)), Shenao Zhang ([@shenao-zhang](https://github.com/shenao-zhang)), Yu Gu ([@entslscheia](https://github.com/entslscheia)) and many others for their kind suggestions and contributions. ❤️
 
 The repository is initially built and maintained by [Yupeng Hou](https://yupenghou.com/) ([yphou@ucsd.edu](mailto:yphou@ucsd.edu)).
