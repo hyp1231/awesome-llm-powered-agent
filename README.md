@@ -66,6 +66,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Multi-Agent Cooperation
 
+* [Oct 2023] **"Evaluating Multi-Agent Coordination Abilities in Large Language Models."** *Saaket Agashe (UCSC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03903)]
 * [Oct 2023] **"Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization."** *Zijun Liu (THU & Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02170)] [[code](https://github.com/SALT-NLP/DyLAN)]
 * [Oct 2023] **"Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View."** *Jintian Zhang (ZJU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02124)] [[code](https://github.com/zjunlp/MachineSoM)]
 * [Oct 2023] **"Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration."** *Qiushi Sun (Shanghai AI Lab & NUS) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.00280)] [[code](https://github.com/QiushiSun/Corex)]
@@ -214,11 +215,16 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Agents-Powered LLMs
 
+* [Oct 2023] **"Agent Instructs Large Language Models to be General Zero-Shot Reasoners."** *Nicholas Crispino (WashU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03710)] [[code](https://github.com/wang-research-lab/agentinstruct)]
+* [Oct 2023] **"ß-Coder: Value-Based Deep Reinforcement Learning for Program Synthesis."** *Zishun Yu (UIC & ByteDance) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03173)]
 * 🔥 [May 2023] **"Training Socially Aligned Language Models in Simulated Human Society."** *Ruibo Liu (Dartmouth) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.16960)] [[code](https://github.com/agi-templar/Stable-Alignment)]
 * 📖 [May 2023] **"Language Models Meet World Models: Embodied Experiences Enhance Language Models."** *Jiannan Xiang (UCSD) et al.* NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.10626)] [[code](https://github.com/szxiangjn/world-model-for-language-model)]
 
 ### Benchmark
 
+* [Oct 2023] **"Balancing Autonomy and Alignment: A Multi-Dimensional Taxonomy for Autonomous LLM-powered Multi-Agent Architectures."** *Thorsten Händler (FERNFH) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03659)]
+* [Oct 2023] **"Benchmarking Large Language Models As AI Research Agents."** *Qian Huang (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03302)] [[code](https://github.com/snap-stanford/MLAgentBench)]
+* [Oct 2023] **"MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use."** *Yue Huang (Lehigh University) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03128)] [[dataset](https://atlas.nomic.ai/map/a43a6a84-4453-428a-8738-2534d7bf0b89/b2b8134b-a37e-45d2-a0d9-765911f27df6)]
 * [Oct 2023] **"SmartPlay : A Benchmark for LLMs as Intelligent Agents."** *Yue Wu (CMU & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01557)] [[code](https://github.com/microsoft/SmartPlay)]
 * [Aug 2023] **"BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents."** *Zhiwei Liu (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.05960)] [[code](https://github.com/salesforce/BOLAA)]
 * 🔥 [Aug 2023] **"AgentBench: Evaluating LLMs as Agents."** *Xiao Liu (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03688)] [[code](https://github.com/THUDM/AgentBench)] [[project page](https://llmbench.ai/)]
