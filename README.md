@@ -151,6 +151,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Gaming & Role-Playing
 
+* [Oct 2023] **"From Text to Tactic: Evaluating LLMs Playing the Game of Avalon."** *Jonathan Light (RPI) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05036)] [[code](https://github.com/jonathanmli/Avalon-LLM)]
 * [Oct 2023] **"Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems."** *Robin Schmucker (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01420)]
 * [Oct 2023] **"Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation."** *Shenzhi Wang (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01320)]
 * [Sep 2023] **"Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4."** *Jiaxian Guo (U of Tokyo) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17277)] [[code](https://github.com/CR-Gjx/Suspicion-Agent)]
@@ -163,6 +164,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Oct 2023] **"OptiMUS: Optimization Modeling Using mip Solvers and large language models."** *Ali AhmadiTeshnizi (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.06116)] [[code](https://github.com/teshnizi/OptiMUS)]
+* [Oct 2023] **"An evolutionary model of personality traits related to cooperative behavior using a large language model."** *Reiji Suzuki (Nagoya University) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05976)]
+* [Oct 2023] **"Large Language Model (LLM) as a System of Multiple Expert Agents: An Approach to solve the Abstraction and Reasoning Corpus (ARC) Challenge."** *John Chong Min Tan (NUS) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05146)]
 * [Oct 2023] **"A Language-Agent Approach to Formal Theorem-Proving."** *Amitayush Thakur (UT Austin) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.04353)]
 * [Oct 2023] **"Conversational Health Agents: A Personalized LLM-Powered Agent Framework."** *Mahyar Abbasian (UCI) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02374)]
 * [Oct 2023] **"OceanGPT: A Large Language Model for Ocean Science Tasks."** *Zhen Bi (ZJU & Donghai Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02031)] [[project page](https://www.zjukg.org/project/OceanGPT)]
@@ -193,6 +197,8 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Human Interaction Simulation
 
+* [Oct 2023] **"Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms."** *Petter Törnberg (U of Amsterdam) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05984)]
+* [Oct 2023] **"Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena."** *Jiangjie Chen (FDU & AI2) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05746)] [[code](https://github.com/jiangjiechen/auction-arena)] [[project page](https://auction-arena.github.io)]
 * [Oct 2023] **"Lyfe Agents: Generative agents for low-cost real-time social interactions."** *Zhao Kaiya (MIT) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02172)]
 * [Sep 2023] **"Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence."** *Navid Ghaffarzadegan (Virginia Tech) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.11456)]
 * [Aug 2023] **"CGMI: Configurable General Multi-Agent Interaction Framework."** *Jinxin Shi (ECNU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.12503)]
@@ -211,6 +217,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Human-Agent Interaction
 
+* [Oct 2023] **"How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent."** *Yiren Liu (UIUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.06155)]
 * [Aug 2023] **"Quantifying the Impact of Large Language Models on Collective Opinion Dynamics."** *Chao Li (ZJU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03313)]
 * [Aug 2023] **"SAPIEN: Affective Virtual Agents Powered by Large Language Models."** *Masum Hasan (U of Rochester) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03022)]
 * [Jul 2023] **"Understanding the Benefits and Challenges of Using Large Language Model-based Conversational Agents for Mental Well-being Support."** *Zilin Ma (Harvard) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.15810)]
