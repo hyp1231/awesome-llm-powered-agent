@@ -235,6 +235,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Benchmark
 
+* [Nov 2023] **"MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration."** *Lin Xu (NUS, ByteDance, Stanford & UC Berkeley) et al.* arXiv. [[paper](https://arxiv.org/pdf/2311.08562)] [[Project Page](https://zhiyuanhubj.github.io/MAgIC/)]
 * [Oct 2023] **"Balancing Autonomy and Alignment: A Multi-Dimensional Taxonomy for Autonomous LLM-powered Multi-Agent Architectures."** *Thorsten Händler (FERNFH) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03659)]
 * [Oct 2023] **"Benchmarking Large Language Models As AI Research Agents."** *Qian Huang (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03302)] [[code](https://github.com/snap-stanford/MLAgentBench)]
 * [Oct 2023] **"MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use."** *Yue Huang (Lehigh University) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03128)] [[dataset](https://atlas.nomic.ai/map/a43a6a84-4453-428a-8738-2534d7bf0b89/b2b8134b-a37e-45d2-a0d9-765911f27df6)]
