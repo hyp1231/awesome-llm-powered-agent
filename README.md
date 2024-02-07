@@ -47,6 +47,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Reasoning & Planning & Tool Using
 
+* [Dec 2023] **"CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update."** *Zhi Gao (BIGAI) et al.* arXiv. [[paper](https://arxiv.org/abs/2312.10908)] [[code](https://clova-tool.github.io/)] [[project page](https://clova-tool.github.io/)]
 * 📖 [Dec 2023] **"SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge."** *Rishi Hazra et al.* AAAI 2024 [[paper](https://arxiv.org/pdf/2308.12682.pdf)] [[code](https://github.com/RishiHazra/saycanpay)] [[project page](https://rishihazra.github.io/SayCanPay/)]
 * [Oct 2023] **"Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models."** *Andy Zhou (UIUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.04406)] [[code](https://github.com/andyz245/LanguageAgentTreeSearch)] [[project page](https://andyz245.github.io/LanguageAgentTreeSearch)]
 * [Oct 2023] **"Adapting LLM Agents Through Communication."** *Kuan Wang (GaTech & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01444)]
@@ -77,7 +78,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [Sep 2023] **"LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games."** *Sahar Abdelnabi (CISPA) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17234)] [[code](https://github.com/S-Abdelnabi/LLM-Deliberation)]
 * [Sep 2023] **"Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?"** *Yongchao Chen (MIT & Harvard) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.15943)] [[code](https://github.com/yongchao98/multi-agent-framework)] [[project page](https://yongchao98.github.io/MIT-REALM-Multi-Robot)]
 * [Sep 2023] **"ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs."** *Justin Chih-Yao Chen (UNC Chapel Hill) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.13007)] [[code](https://github.com/dinobby/ReConcile)]
-* [Sep 2023] **"MindAgent: Emergent Gaming Interaction."** *Ran Gong (UCLA) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.09971)] [[code](https://github.com/mindagent/mindagent)] [[project page](https://mindagent.github.io)]
 * [Aug 2023] **"ProAgent: Building Proactive Cooperative AI with Large Language Models."** *Ceyao Zhang (CUHK & PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.11339)] [[project page](https://pku-proagent.github.io)]
 * 🔥 [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents."** *Weize Chen (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
 * [Aug 2023] **"GPT-in-the-Loop: Adaptive Decision-Making for Multiagent Systems."** *Nathalia Nascimento (U of Waterloo) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.10435)]
@@ -134,6 +134,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Robotics & Embodied AI
 
+* [Nov 2023] **"LEO: An Embodied Generalist Agent in 3D World."** *Xiaojian Ma (BIGAI) et al.* arXiv. [[paper](https://arxiv.org/abs/2311.12871)] [[code](https://embodied-generalist.github.io/)] [[project page](https://embodied-generalist.github.io/)]
+* [Nov 2023] **"JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models."** *Zihao Wang (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)] [[project page](https://craftjarvis-jarvis1.github.io/)]
 * [Oct 2023] **"Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond."** *Liang Chen (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02071)] [[code](https://github.com/pkunlp-icler/PCA-EVAL)] [[project page](https://pca-eval.github.io)]
 * [Oct 2023] **"LANCAR: Leveraging Language for Context-Aware Robot Locomotion in Unstructured Environments."** *Chak Lam Shek (UMD) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.00481)] [[project page](https://raaslab.org/projects/LLM_Context_Estimation)]
 * [Sep 2023] **"LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent."** *Jianing Yang (UMich) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.12311)] [[code](https://github.com/sled-group/chat-with-nerf)] [[project page](https://chat-with-nerf.github.io)]
@@ -158,6 +160,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [Oct 2023] **"From Text to Tactic: Evaluating LLMs Playing the Game of Avalon."** *Jonathan Light (RPI) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05036)] [[code](https://github.com/jonathanmli/Avalon-LLM)]
 * [Oct 2023] **"Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems."** *Robin Schmucker (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01420)]
 * [Oct 2023] **"Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation."** *Shenzhi Wang (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01320)]
+* [Sep 2023] **"MindAgent: Emergent Gaming Interaction."** *Xiaojian Ma (BIGAI) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.09971)] [[code](https://mindagent.github.io/)] [[project page](https://mindagent.github.io/)]
 * [Sep 2023] **"Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4."** *Jiaxian Guo (U of Tokyo) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17277)] [[code](https://github.com/CR-Gjx/Suspicion-Agent)]
 * [Aug 2023] **"Ambient Adventures: Teaching ChatGPT on Developing Complex Stories."** *Zexin Chen (GaTech) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.01734)]
 * [Jul 2023] **"Tachikuma: Understading Complex Interactions with Multi-Character and Novel Objects by Large Language Models."** *Yuanzhi Liang (UTS) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.12573)]
