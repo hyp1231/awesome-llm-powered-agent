@@ -38,7 +38,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 - [Other Related Sources](#other-related-sources)
 - [Acknowledgement](#acknowledgement)
 
-
 ## Papers
 
 > 🔥 for papers with >50 citations or repositories with >200 stars.\
