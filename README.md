@@ -51,6 +51,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 📖 [Dec 2023] **"SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge."** *Rishi Hazra et al.* AAAI 2024 [[paper](https://arxiv.org/pdf/2308.12682.pdf)] [[code](https://github.com/RishiHazra/saycanpay)] [[project page](https://rishihazra.github.io/SayCanPay/)]
 * [Oct 2023] **"Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models."** *Andy Zhou (UIUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.04406)] [[code](https://github.com/andyz245/LanguageAgentTreeSearch)] [[project page](https://andyz245.github.io/LanguageAgentTreeSearch)]
 * [Oct 2023] **"Adapting LLM Agents Through Communication."** *Kuan Wang (GaTech & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01444)]
+* 📖 [Oct 2023] **"ToolChain\*: Efficient Action Space Navigation in Large Language Models with A\* Search"** *Yuchen Zhuang (GaTech & Adobe) et al.* ICLR 2024. [[paper](https://arxiv.org/abs/2310.13227)]
 * 📖 [Sep 2023] **"AVIS: Autonomous Visual Information Seeking with Large Language Models."** *Ziniu Hu (Google) et al.* NeurIPS 2023.  [[paper](https://arxiv.org/pdf/2306.08129.pdf)]
 * [Sep 2023] **"Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency."** *Zhihan Liu (Northwestern) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17382)] [[code](https://github.com/agentification/RAFA_code)] [[project page](https://agentification.github.io/RAFA)]
 * [Sep 2023] **"Self-driven Grounding: Large Language Model Agents with Automatical Language-aligned Skill Learning."** *Shaohui Peng (CAS) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.01352)]
@@ -60,6 +61,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [Aug 2023] **"Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization."** *Weiran Yao (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.02151)]
 * 🔥 [May 2023] **"ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models."** *Binfeng Xu et al.* arXiv. [[paper](https://arxiv.org/abs/2305.18323)] [[code](https://github.com/billxbf/ReWOO)]
 * 📖 [May 2023] **"SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks."** *Bill Yuchen Lin (AI2) et al.* NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.17390)] [[code](https://github.com/yuchenlin/swiftsage)] [[project page](https://yuchenlin.xyz/swiftsage)]
+* 📖 [May 2023] **"AdaPlanner: Adaptive Planning from Feedback with Language Models."** *Haotian Sun (GaTech) et al.* NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.16653)] [[code](https://github.com/haotiansun14/AdaPlanner)]
 * 🔥📖 [May 2022] **"Reasoning with Language Model is Planning with World Model."** *Shibo Hao (UCSD) et al.* EMNLP 2023. [[paper](https://arxiv.org/abs/2305.14992)] [[code](https://github.com/Ber666/llm-reasoners)] [[project page](https://www.llm-reasoners.net/)]
 * 📖 [May 2023] **"Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning."** *Lin Guan (ASU) et al.* NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.14909)] [[code](https://github.com/GuanSuns/LLMs-World-Models-for-Planning)] [[project page](https://guansuns.github.io/pages/llm-dm)]
 * 📖 [May 2023] **"ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models."** *Zhipeng Chen (RUC) et al.* EMNLP 2023 Findings. [[paper](https://arxiv.org/abs/2305.14323)] [[code](https://github.com/RUCAIBOX/ChatCoT)]
@@ -172,6 +174,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Jan 2024] **"EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records."** *Wenqi Shi (GaTech) et al.* arXiv. [[paper](https://arxiv.org/abs/2401.07128)] [[code](https://github.com/wshi83/EhrAgent)] [[project page](https://night-chen.github.io/EHR-Agent-page/)]
 * [Oct 2023] **"OptiMUS: Optimization Modeling Using mip Solvers and large language models."** *Ali AhmadiTeshnizi (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.06116)] [[code](https://github.com/teshnizi/OptiMUS)]
 * [Oct 2023] **"An evolutionary model of personality traits related to cooperative behavior using a large language model."** *Reiji Suzuki (Nagoya University) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05976)]
 * [Oct 2023] **"Large Language Model (LLM) as a System of Multiple Expert Agents: An Approach to solve the Abstraction and Reasoning Corpus (ARC) Challenge."** *John Chong Min Tan (NUS) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05146)]
@@ -253,6 +256,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * [Aug 2023] **"BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents."** *Zhiwei Liu (Salesforce) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.05960)] [[code](https://github.com/salesforce/BOLAA)]
 * 🔥 [Aug 2023] **"AgentBench: Evaluating LLMs as Agents."** *Xiao Liu (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03688)] [[code](https://github.com/THUDM/AgentBench)] [[project page](https://llmbench.ai/)]
 * [Aug 2023] **"TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents."** *Jingqing Ruan (SenseTime) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03427)]
+* 📖 [June 2023] **"ToolQA: A Dataset for LLM Question Answering with External Tools."** *Yuchen Zhuang (GaTech) et al.* NeurIPS 2023. [[paper](https://arxiv.org/abs/2306.13304)] [[code](https://github.com/night-chen/ToolQA)]
 
 ### Survey & Tutorial
 
