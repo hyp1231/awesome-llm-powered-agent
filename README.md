@@ -210,6 +210,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 ### Human Interaction Simulation
 
 * [Jan 2024] **"Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models."** *Lucio La Cava (University of Calabria) et al.* arXiv. [[paper](https://arxiv.org/abs/2401.07115)]
+* 🔥 [Oct 2023] **"SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents"** *Xuhui Zhou (CMU) et al.*ICLR [[paper](https://arxiv.org/abs/2310.11667)]
 * [Oct 2023] **"CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents."** *Qinlin Zhao (USTC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.17512)]
 * [Oct 2023] **"Simulating Social Media Using Large Language Models to Evaluate Alternative News Feed Algorithms."** *Petter Törnberg (U of Amsterdam) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05984)]
 * [Oct 2023] **"Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena."** *Jiangjie Chen (FDU & AI2) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05746)] [[code](https://github.com/jiangjiechen/auction-arena)] [[project page](https://auction-arena.github.io)]
