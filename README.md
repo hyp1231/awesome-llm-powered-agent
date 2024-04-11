@@ -208,7 +208,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * [Aug 2023] **"Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges."** *Sivan Schwartz (IBM Research) et al.* AutoMate @ IJCAI 2023. [[paper](https://arxiv.org/abs/2308.05391)]
 
 ### Human Interaction Simulation
-* [Mar 2024] **Emergence of Social Norms in Large Language Model-based Agent Societies.** *Siyue Ren (NWPU) et al. arXiv.* [[paper](https://arxiv.org/abs/2403.08251)] [[code](https://github.com/sxswz213/CRSEC)] 
+* [Mar 2024] **"Emergence of Social Norms in Large Language Model-based Agent Societies."** *Siyue Ren (NWPU) et al.* arXiv. [[paper](https://arxiv.org/abs/2403.08251)] [[code](https://github.com/sxswz213/CRSEC)] 
 * [Jan 2024] **"Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models."** *Lucio La Cava (University of Calabria) et al.* arXiv. [[paper](https://arxiv.org/abs/2401.07115)]
 * 🔥 [Oct 2023] **"SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents"** *Xuhui Zhou (CMU) et al.*ICLR [[paper](https://arxiv.org/abs/2310.11667)]
 * [Oct 2023] **"CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents."** *Qinlin Zhao (USTC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.17512)]
