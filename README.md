@@ -10,7 +10,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 -----
 
-**Not that this repository is not under active maintenance. It mainly contains papers that appear before Oct. 2023, with several further papers. If you would like to have your paper included, please feel free to initiate a [pull request](https://github.com/hyp1231/awesome-llm-powered-agent/pulls).**
+**Note that this repository is not under active maintenance. It mainly contains papers that appear before Oct. 2023, with several further papers. If you would like to have your paper included, please feel free to initiate a [pull request](https://github.com/hyp1231/awesome-llm-powered-agent/pulls).**
 
 -----
 
