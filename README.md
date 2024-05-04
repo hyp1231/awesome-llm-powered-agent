@@ -47,6 +47,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Reasoning & Planning & Tool Using
 
+* 🔥 [Feb 2024] **"Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models
+."** *Zehui Chen (USTC) et al.* arXiv. [[paper](https://arxiv.org/abs/2403.12881)] [[code](https://github.com/InternLM/Agent-FLAN)] [[project page](https://internlm.github.io/Agent-FLAN/)]
 * [Oct 2023] **"Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models."** *Andy Zhou (UIUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.04406)] [[code](https://github.com/andyz245/LanguageAgentTreeSearch)] [[project page](https://andyz245.github.io/LanguageAgentTreeSearch)]
 * [Oct 2023] **"Adapting LLM Agents Through Communication."** *Kuan Wang (GaTech & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01444)]
 * 📖 [Sep 2023] **"AVIS: Autonomous Visual Information Seeking with Large Language Models."** *Ziniu Hu (Google) et al.* NeurIPS 2023.  [[paper](https://arxiv.org/pdf/2306.08129.pdf)]
