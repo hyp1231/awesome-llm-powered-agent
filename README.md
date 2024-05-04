@@ -47,7 +47,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Reasoning & Planning & Tool Using
 
-* 🔥 [Feb 2024] **"Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models
+* 🔥 [Mar 2024] **"Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models
 ."** *Zehui Chen (USTC) et al.* arXiv. [[paper](https://arxiv.org/abs/2403.12881)] [[code](https://github.com/InternLM/Agent-FLAN)] [[project page](https://internlm.github.io/Agent-FLAN/)]
 * [Dec 2023] **"CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update."** *Zhi Gao (BIGAI) et al.* arXiv. [[paper](https://arxiv.org/abs/2312.10908)] [[code](https://clova-tool.github.io/)] [[project page](https://clova-tool.github.io/)]
 * 📖 [Dec 2023] **"SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge."** *Rishi Hazra et al.* AAAI 2024 [[paper](https://arxiv.org/pdf/2308.12682.pdf)] [[code](https://github.com/RishiHazra/saycanpay)] [[project page](https://rishihazra.github.io/SayCanPay/)]
