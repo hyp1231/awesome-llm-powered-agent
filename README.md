@@ -162,6 +162,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 📖 [Dec 2022] **"LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models."** *Chan Hee Song (OSU) et al.* ICCV 2023. [[paper](https://arxiv.org/abs/2212.04088)] [[project page](https://dki-lab.github.io/LLM-Planner)]
 
 ##### Gaming & Role-Playing
+
+* 📖 [May 2024] **"TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models."** *Jaewoo Ahn (SNU) et al.* Findings of ACL 2024. [[paper](https://arxiv.org/abs/2405.18027)] [[code](https://github.com/ahnjaewoo/timechara)] [[project page](https://ahnjaewoo.github.io/timechara/)]
 * [Oct 2023] **"From Text to Tactic: Evaluating LLMs Playing the Game of Avalon."** *Jonathan Light (RPI) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05036)] [[code](https://github.com/jonathanmli/Avalon-LLM)]
 * [Oct 2023] **"Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems."** *Robin Schmucker (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01420)]
 * [Oct 2023] **"Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation."** *Shenzhi Wang (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01320)]
