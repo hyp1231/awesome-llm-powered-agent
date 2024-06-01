@@ -176,6 +176,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [May 2024] **"AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments"** *Samuel Schmidgall (JHU & Stanford) et al.* arXiv. [[paper](https://arxiv.org/pdf/2405.07960)] [[code](https://github.com/samuelschmidgall/agentclinic)] [[project page](https://agentclinic.github.io/)]
 * [Jan 2024] **"EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records."** *Wenqi Shi (GaTech) et al.* arXiv. [[paper](https://arxiv.org/abs/2401.07128)] [[code](https://github.com/wshi83/EhrAgent)] [[project page](https://night-chen.github.io/EHR-Agent-page/)]
 * [Oct 2023] **"OptiMUS: Optimization Modeling Using mip Solvers and large language models."** *Ali AhmadiTeshnizi (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.06116)] [[code](https://github.com/teshnizi/OptiMUS)]
 * [Oct 2023] **"An evolutionary model of personality traits related to cooperative behavior using a large language model."** *Reiji Suzuki (Nagoya University) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05976)]
