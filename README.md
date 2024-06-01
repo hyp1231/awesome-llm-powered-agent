@@ -74,7 +74,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 🔥📖 [Oct 2022] **"ReAct: Synergizing Reasoning and Acting in Language Models."** *Shunyu Yao (Princeton & Google Brain) et al.* ICLR 2023. [[paper](https://arxiv.org/abs/2210.03629)] [[code](https://github.com/ysymyth/ReAct)] [[project page](https://react-lm.github.io)]
 
 #### Multi-Agent Cooperation
-
+* [May 2024] **"Conformity, Confabulation, and Impersonation: Persona Inconstancy in Multi-Agent LLM Collaboration."** Razan Baltaji (UIUC) et al.* arXiv.  [[paper]([https://arxiv.org/abs/2310.05036](https://arxiv.org/pdf/2405.03862)]
 * 📖 [Jan 2024] **"L2MAC: Large Language Model Automatic Computer for Extensive Code Generation."** *Samuel Holt (Cambridge) et al.* ICLR 2024. [[paper](https://arxiv.org/abs/2310.02003)] [[code](https://github.com/samholt/l2mac)] [[project page](https://samholt.github.io/L2MAC/)]
 * [Oct 2023] **"Evaluating Multi-Agent Coordination Abilities in Large Language Models."** *Saaket Agashe (UCSC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03903)]
 * [Oct 2023] **"Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization."** *Zijun Liu (THU & Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02170)] [[code](https://github.com/SALT-NLP/DyLAN)]
@@ -162,7 +162,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 📖 [Dec 2022] **"LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models."** *Chan Hee Song (OSU) et al.* ICCV 2023. [[paper](https://arxiv.org/abs/2212.04088)] [[project page](https://dki-lab.github.io/LLM-Planner)]
 
 ##### Gaming & Role-Playing
-
 * [Oct 2023] **"From Text to Tactic: Evaluating LLMs Playing the Game of Avalon."** *Jonathan Light (RPI) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05036)] [[code](https://github.com/jonathanmli/Avalon-LLM)]
 * [Oct 2023] **"Ruffle&Riley: Towards the Automated Induction of Conversational Tutoring Systems."** *Robin Schmucker (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01420)]
 * [Oct 2023] **"Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation."** *Shenzhi Wang (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01320)]
