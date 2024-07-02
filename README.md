@@ -14,29 +14,30 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 -----
 
-- [Papers](#papers)
-  - [Autonomous Task Solver](#autonomous-task-solver)
-    - [General Reasoning & Planning & Tool Using](#general-reasoning--planning--tool-using)
-    - [Multi-Agent Cooperation](#multi-agent-cooperation)
-    - [Framework & Open-Source](#framework--open-source)
-    - [Application](#application)
-      - [Web Agents](#web-agents)
-      - [RL Agents](#rl-agents)
-      - [Robotics & Embodied AI](#robotics--embodied-ai)
-      - [Gaming & Role-Playing](#gaming--role-playing)
-      - [Other Applications](#other-applications)
-    - [Trustworthy](#trustworthy)
-  - [Human Interaction Simulation](#human-interaction-simulation)
-  - [Human-Agent Interaction](#human-agent-interaction)
-  - [Agents-Powered LLMs](#agents-powered-llms)
-  - [Benchmark](#benchmark)
-  - [Survey & Tutorial](#survey--tutorial)
-- [Open-Source Projects](#open-source-projects)
-  - [Autonomous Task Solver Projects](#autonomous-task-solver-projects)
-  - [Multi-Agent Simulation Projects](#multi-agent-simulation-projects)
-- [Perspectives](#perspectives)
-- [Other Related Sources](#other-related-sources)
-- [Acknowledgement](#acknowledgement)
+- [Awesome LLM-Powered Agent](#awesome-llm-powered-agent)
+  - [Papers](#papers)
+    - [Autonomous Task Solver](#autonomous-task-solver)
+      - [General Reasoning \& Planning \& Tool Using](#general-reasoning--planning--tool-using)
+      - [Multi-Agent Cooperation](#multi-agent-cooperation)
+      - [Framework \& Open-Source](#framework--open-source)
+      - [Application](#application)
+        - [Web Agents](#web-agents)
+        - [RL Agents](#rl-agents)
+        - [Robotics \& Embodied AI](#robotics--embodied-ai)
+        - [Gaming \& Role-Playing](#gaming--role-playing)
+        - [Other Applications](#other-applications)
+      - [Trustworthy](#trustworthy)
+    - [Human Interaction Simulation](#human-interaction-simulation)
+    - [Human-Agent Interaction](#human-agent-interaction)
+    - [Agents-Powered LLMs](#agents-powered-llms)
+    - [Benchmark](#benchmark)
+    - [Survey \& Tutorial](#survey--tutorial)
+  - [Open-Source Projects](#open-source-projects)
+    - [Autonomous Task Solver Projects](#autonomous-task-solver-projects)
+    - [Multi-Agent Simulation Projects](#multi-agent-simulation-projects)
+  - [Perspectives](#perspectives)
+  - [Other Related Sources](#other-related-sources)
+  - [Acknowledgement](#acknowledgement)
 
 ## Papers
 
@@ -133,7 +134,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### RL Agents
 
-* [Jun 2024] **"Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models."** *Cong Lu (UBC) et al.* arXiv. [[paper](https://arxiv.org/abs/2405.15143)]
+* [May 2024] **"Agentic Skill Discovery."** *Xufeng Zhao (UHH) et al.* arXiv. [[paper](https://arxiv.org/abs/2405.15019)] [[code](https://github.com/xf-zhao/Agentic-Skill-Discovery)] [[project page](https://agentic-skill-discovery.github.io/)]
+* [May 2024] **"Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models."** *Cong Lu (UBC) et al.* arXiv. [[paper](https://arxiv.org/abs/2405.15143)]
 * [Oct 2023] **"Motif: Intrinsic Motivation from Artificial Intelligence Feedback."** *Martin Klissarov (Mila & Meta & McGill) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.00166)]
 * [Sep 2023] **"RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds."** *Wanpeng Zhang (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17176)]
 * [Aug 2023] **"LaGR-SEQ: Language-Guided Reinforcement Learning with Sample-Efficient Querying."** *Thommen George Karimpanal (Deakin University) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.13542)] [[code](https://github.com/GKthom/LaGRSEQ)]
