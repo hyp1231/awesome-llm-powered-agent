@@ -77,7 +77,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 🔥📖 [Oct 2022] **"ReAct: Synergizing Reasoning and Acting in Language Models."** *Shunyu Yao (Princeton & Google Brain) et al.* ICLR 2023. [[paper](https://arxiv.org/abs/2210.03629)] [[code](https://github.com/ysymyth/ReAct)] [[project page](https://react-lm.github.io)]
 
 #### Multi-Agent Cooperation
+
 * [May 2024] **"Conformity, Confabulation, and Impersonation: Persona Inconstancy in Multi-Agent LLM Collaboration."** Razan Baltaji (UIUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05036)] [[code](https://github.com/baltaci-r/CulturedAgents)]
+* [April 2024] **"CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving."** Pei Chen (TAMU) et al.* NAACL 2024. [[paper](https://arxiv.org/abs/2404.17729)] [[code](https://github.com/amazon-science/comm-prompt)]
 * 📖 [Jan 2024] **"L2MAC: Large Language Model Automatic Computer for Extensive Code Generation."** *Samuel Holt (Cambridge) et al.* ICLR 2024. [[paper](https://arxiv.org/abs/2310.02003)] [[code](https://github.com/samholt/l2mac)] [[project page](https://samholt.github.io/L2MAC/)]
 * [Oct 2023] **"Evaluating Multi-Agent Coordination Abilities in Large Language Models."** *Saaket Agashe (UCSC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03903)]
 * [Oct 2023] **"Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization."** *Zijun Liu (THU & Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02170)] [[code](https://github.com/SALT-NLP/DyLAN)]
