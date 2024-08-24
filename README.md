@@ -145,6 +145,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Robotics & Embodied AI
 
+* [Jul 2024] **"Odyssey: Empowering Agents with Open-World Skills."** *Shunyu Liu (Zhejiang University) et al.* arXiv. [[paper](https://arxiv.org/abs/2407.15325)] [[code](https://github.com/zju-vipa/Odyssey)]
 * [Nov 2023] **"LEO: An Embodied Generalist Agent in 3D World."** *Xiaojian Ma (BIGAI) et al.* arXiv. [[paper](https://arxiv.org/abs/2311.12871)] [[code](https://embodied-generalist.github.io/)] [[project page](https://embodied-generalist.github.io/)]
 * [Nov 2023] **"JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models."** *Zihao Wang (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)] [[project page](https://craftjarvis-jarvis1.github.io/)]
 * [Oct 2023] **"Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond."** *Liang Chen (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.02071)] [[code](https://github.com/pkunlp-icler/PCA-EVAL)] [[project page](https://pca-eval.github.io)]
