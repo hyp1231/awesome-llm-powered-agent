@@ -117,6 +117,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 🔥 [Sep 2023] **"Agents: An Open-source Framework for Autonomous Language Agents."** *Wangchunshu Zhou (AI Waves) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.07870)] [[code](https://github.com/aiwaves-cn/agents)] [[project page](http://www.aiwaves-agents.com)]
 * 🔥 [Sep 2023] **"Cognitive Architectures for Language Agents."** *Theodore Sumers (Princeton) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.02427)] [[repo](https://github.com/ysymyth/awesome-language-agents)]
 * 🔥 [Aug 2023] **"AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework."** *Qingyun Wu et al.* arXiv. [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://github.com/microsoft/autogen)] [[project page](https://microsoft.github.io/autogen/)]
+* 🔥 [Aug 2023] **"FastAgency: The fastest way to bring multi-agent workflows to production."** *Davor Runje et al.* [[code](https://github.com/airtai/FastAgency)] [[project page](https://fastagency.ai/latest/)]
 
 #### Application
 
