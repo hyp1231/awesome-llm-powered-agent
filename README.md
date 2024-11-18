@@ -138,6 +138,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 * [May 2024] **"Agentic Skill Discovery."** *Xufeng Zhao (UHH) et al.* arXiv. [[paper](https://arxiv.org/abs/2405.15019)] [[code](https://github.com/xf-zhao/Agentic-Skill-Discovery)] [[project page](https://agentic-skill-discovery.github.io/)]
 * [May 2024] **"Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models."** *Cong Lu (UBC) et al.* arXiv. [[paper](https://arxiv.org/abs/2405.15143)]
+* [Nov 2023] **"Lafite-RL: "Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models"** *Kun Chu (UHH) et al.* CRL WS @ CoRL 2023. [[Paper](https://arxiv.org/abs/2311.02379)]
 * [Oct 2023] **"Motif: Intrinsic Motivation from Artificial Intelligence Feedback."** *Martin Klissarov (Mila & Meta & McGill) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.00166)]
 * [Sep 2023] **"RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds."** *Wanpeng Zhang (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17176)]
 * [Aug 2023] **"LaGR-SEQ: Language-Guided Reinforcement Learning with Sample-Efficient Querying."** *Thommen George Karimpanal (Deakin University) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.13542)] [[code](https://github.com/GKthom/LaGRSEQ)]
@@ -148,6 +149,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Robotics & Embodied AI
 
+* [Nov 2024] **"LABOR Agent: Large Language Models for Orchestrating Bimanual Robots"**, *Kun Chu (UHH) et al.* Humanoids 2024. [[Paper](https://arxiv.org/abs/2404.02018)] [[Website](https://labor-agent.github.io/)], [[Code](https://github.com/Kchu/LABOR-Agent)]
 * [Jul 2024] **"Odyssey: Empowering Agents with Open-World Skills."** *Shunyu Liu (Zhejiang University) et al.* arXiv. [[paper](https://arxiv.org/abs/2407.15325)] [[code](https://github.com/zju-vipa/Odyssey)]
 * [Nov 2023] **"LEO: An Embodied Generalist Agent in 3D World."** *Xiaojian Ma (BIGAI) et al.* arXiv. [[paper](https://arxiv.org/abs/2311.12871)] [[code](https://embodied-generalist.github.io/)] [[project page](https://embodied-generalist.github.io/)]
 * [Nov 2023] **"JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models."** *Zihao Wang (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)] [[project page](https://craftjarvis-jarvis1.github.io/)]
