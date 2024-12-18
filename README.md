@@ -227,6 +227,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Human Interaction Simulation
 
+* [Dec 2024] **"Generative Adversarial Reviews: When LLMs Become the Critic."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2412.10415)]
 * [Mar 2024] **"Emergence of Social Norms in Large Language Model-based Agent Societies."** *Siyue Ren (NWPU) et al.* arXiv. [[paper](https://arxiv.org/abs/2403.08251)] [[code](https://github.com/sxswz213/CRSEC)]
 * [Jan 2024] **"Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models."** *Lucio La Cava (University of Calabria) et al.* arXiv. [[paper](https://arxiv.org/abs/2401.07115)]
 * 🔥 [Oct 2023] **"SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents"** *Xuhui Zhou (CMU) et al.*ICLR [[paper](https://arxiv.org/abs/2310.11667)]
