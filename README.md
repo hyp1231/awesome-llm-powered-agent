@@ -189,6 +189,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Dec 2024] **SEAGraph: Unveiling the Whole Story of Paper Review Comments** *Jianxiang Yu (ECNU) et al.* arXiv. [[paper](https://arxiv.org/pdf/2412.11939)] [[code](https://github.com/ecnu-sea/seagraph)]
+* [Jun 2024] **Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis** *Jianxiang Yu (ECNU) et al.* EMNLP 2024. [[paper](https://arxiv.org/abs/2407.12857)] [[code](https://github.com/ecnu-sea/sea)] [[model](https://huggingface.co/ECNU-SEA)]
 * [May 2024] **"AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments"** *Samuel Schmidgall (JHU & Stanford) et al.* arXiv. [[paper](https://arxiv.org/pdf/2405.07960)] [[code](https://github.com/samuelschmidgall/agentclinic)] [[project page](https://agentclinic.github.io/)]
 * [Apr 2024] **"ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning"** *Ling Yue (RPI) et al.* arXiv. [[paper](https://arxiv.org/abs/2404.14777)] [[code](https://github.com/LeoYML/ClinicalAgent)]
 * [Jan 2024] **"EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records."** *Wenqi Shi (GaTech) et al.* arXiv. [[paper](https://arxiv.org/abs/2401.07128)] [[code](https://github.com/wshi83/EhrAgent)] [[project page](https://night-chen.github.io/EHR-Agent-page/)]
