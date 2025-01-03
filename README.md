@@ -46,7 +46,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ### Autonomous Task Solver
 
 #### General Reasoning & Planning & Tool Using
-
+* 📖 [May 2024] **"Can Graph Learning Improve Planning in LLM-based Agents?"** *Xixi Wu (CUHK) and Yifei Shen (MSRA) et al.* NeurIPS 2024. [[paper](https://arxiv.org/abs/2405.19119)] [[code](https://github.com/WxxShirley/GNN4TaskPlan)] [[chinese blog](https://zhuanlan.zhihu.com/p/936340518)]
 * 🔥 [May 2024] **"Offline Training of Language Model Agents with Functions as Learnable Weights
 ."** *Shaokun Zhang (PSU) et al.* ICML 2024. [[paper](https://arxiv.org/pdf/2402.11359)] [[code](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_agentoptimizer.ipynb)]
 * 🔥 [Mar 2024] **"Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models
