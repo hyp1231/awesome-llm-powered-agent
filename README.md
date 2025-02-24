@@ -47,8 +47,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Reasoning & Planning & Tool Using
 * 📖 [May 2024] **"Can Graph Learning Improve Planning in LLM-based Agents?"** *Xixi Wu (CUHK) and Yifei Shen (MSRA) et al.* NeurIPS 2024. [[paper](https://arxiv.org/abs/2405.19119)] [[code](https://github.com/WxxShirley/GNN4TaskPlan)] [[chinese blog](https://zhuanlan.zhihu.com/p/936340518)]
-* 🔥 [May 2024] **"Offline Training of Language Model Agents with Functions as Learnable Weights
-."** *Shaokun Zhang (PSU) et al.* ICML 2024. [[paper](https://arxiv.org/pdf/2402.11359)] [[code](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_agentoptimizer.ipynb)]
+* [May 2024] **"Offline Training of Language Model Agents with Functions as Learnable Weights."** *Shaokun Zhang (PSU) et al.* ICML 2024. [[paper](https://arxiv.org/pdf/2402.11359)] [[code](https://github.com/ag2ai/ag2/blob/main/notebook/agentchat_agentoptimizer.ipynb)]
 * 🔥 [Mar 2024] **"Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models
 ."** *Zehui Chen (USTC) et al.* arXiv. [[paper](https://arxiv.org/abs/2403.12881)] [[code](https://github.com/InternLM/Agent-FLAN)] [[project page](https://internlm.github.io/Agent-FLAN/)]
 * [Dec 2023] **"CLOVA: A Closed-LOop Visual Assistant with Tool Usage and Update."** *Zhi Gao (BIGAI) et al.* arXiv. [[paper](https://arxiv.org/abs/2312.10908)] [[code](https://clova-tool.github.io/)] [[project page](https://clova-tool.github.io/)]
@@ -113,7 +112,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 #### Framework & Open-Source
 
 
-* 🔥 [Feb 2025] **"The Ann Arbor Architecture for Agent-Oriented Programming."** *Wei Dong* arxiv. [[paper](https://arxiv.org/abs/2502.09903)] [[code](https://github.com/aaalgo/postline_0.1)]
+* [Feb 2025] **"The Ann Arbor Architecture for Agent-Oriented Programming."** *Wei Dong* arxiv. [[paper](https://arxiv.org/abs/2502.09903)] [[code](https://github.com/aaalgo/postline_0.1)]
 * 🔥 [Oct 2023] **"OpenAgents: An Open Platform for Language Agents in the Wild."** *Tianbao Xie (HKU & XLang Lab) et al.* arxiv. [[paper](https://arxiv.org/abs/2310.10634)] [[code](https://github.com/xlang-ai/OpenAgents)]
 * 🔥 [Sep 2023] **"AutoAgents: A Framework for Automatic Agent Generation."** *Guangyao Chen (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/LinkSoul-AI/AutoAgents)]
 * 🔥 [Sep 2023] **"Agents: An Open-source Framework for Autonomous Language Agents."** *Wangchunshu Zhou (AI Waves) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.07870)] [[code](https://github.com/aiwaves-cn/agents)] [[project page](http://www.aiwaves-agents.com)]
@@ -232,7 +231,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Human Interaction Simulation
 
-* 🔥 [Dec 2024] **"OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis."** *Qiushi Sun (HKU & Shanghai AI Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2412.19723)]
+* [Dec 2024] **"OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis."** *Qiushi Sun (HKU & Shanghai AI Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2412.19723)]
 * [Dec 2024] **"Generative Adversarial Reviews: When LLMs Become the Critic."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2412.10415)]
 * [Mar 2024] **"Emergence of Social Norms in Large Language Model-based Agent Societies."** *Siyue Ren (NWPU) et al.* arXiv. [[paper](https://arxiv.org/abs/2403.08251)] [[code](https://github.com/sxswz213/CRSEC)]
 * [Jan 2024] **"Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models."** *Lucio La Cava (University of Calabria) et al.* arXiv. [[paper](https://arxiv.org/abs/2401.07115)]
