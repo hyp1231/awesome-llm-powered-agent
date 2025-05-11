@@ -192,7 +192,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 🔥📖 [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society."** *Guohao Li (KAUST) et al.* NeurIPS 2023. [[paper](https://arxiv.org/abs/2303.17760)] [[code](https://github.com/camel-ai/camel)] [[project page](https://www.camel-ai.org)]
 
 ##### Other Applications
-
+* [May 2025] **Foam-Agent: Towards Automated Intelligent CFD Workflows** *Ling Yue(RPI) et al.* arXiv. [[paper](https://arxiv.org/abs/2505.04997)] [[code](https://github.com/csml-rpi/Foam-Agent)]
 * [Dec 2024] **SEAGraph: Unveiling the Whole Story of Paper Review Comments** *Jianxiang Yu (ECNU) et al.* arXiv. [[paper](https://arxiv.org/pdf/2412.11939)] [[code](https://github.com/ecnu-sea/seagraph)]
 * [Jun 2024] **Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis** *Jianxiang Yu (ECNU) et al.* EMNLP 2024. [[paper](https://arxiv.org/abs/2407.12857)] [[code](https://github.com/ecnu-sea/sea)] [[model](https://huggingface.co/ECNU-SEA)]
 * [May 2024] **"AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments"** *Samuel Schmidgall (JHU & Stanford) et al.* arXiv. [[paper](https://arxiv.org/pdf/2405.07960)] [[code](https://github.com/samuelschmidgall/agentclinic)] [[project page](https://agentclinic.github.io/)]
