@@ -138,7 +138,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 📖 [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents."** *Shunyu Yao (Princeton) et al.* NeurIPS 2022. [[paper](https://arxiv.org/abs/2207.01206)] [[code](https://github.com/princeton-nlp/WebShop)] [[project page](https://webshop-pnlp.github.io)]
 
 ##### RL Agents
-
+* [Jun 2025] **"Group-in-Group Policy Optimization for LLM Agent Training"** *Lang Feng (NTU) et al.* arXiv. [[paper](https://arxiv.org/abs/2505.10978)][[code](https://github.com/langfengQ/verl-agent)]
+* [May 2025] **"Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning"** *Lang Feng (NTU, Alibaba) et al.* ICML 2025. [[paper](https://arxiv.org/abs/2505.03792)][[code](https://github.com/langfengQ/CoSo)]
 * [May 2024] **"Agentic Skill Discovery."** *Xufeng Zhao (UHH) et al.* arXiv. [[paper](https://arxiv.org/abs/2405.15019)] [[code](https://github.com/xf-zhao/Agentic-Skill-Discovery)] [[project page](https://agentic-skill-discovery.github.io/)]
 * [May 2024] **"Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models."** *Cong Lu (UBC) et al.* arXiv. [[paper](https://arxiv.org/abs/2405.15143)]
 * [Nov 2023] **"Lafite-RL: "Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models"** *Kun Chu (UHH) et al.* CRL WS @ CoRL 2023. [[Paper](https://arxiv.org/abs/2311.02379)]
