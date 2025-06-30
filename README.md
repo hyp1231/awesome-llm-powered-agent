@@ -126,6 +126,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Web Agents
 
+* [Jun 2025] **"CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation
+."** *Nicolas Bougie (WbyT) et al.* arXiv. [[paper]([https://arxiv.org/abs/2506.21805](https://arxiv.org/abs/2506.21805))]
 * [Sep 2023] **"You Only Look at Screens: Multimodal Chain-of-Action Agents."** *Zhuosheng Zhang (SJTU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.11436)] [[code](https://github.com/cooelf/Auto-UI)]
 * [Sep 2023] **"LASER: LLM Agent with State-Space Exploration for Web Navigation."** *Kaixin Ma (Tencent) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.08172)] [[code](https://github.com/Mayer123/LASER)]
 * 🔥 [Jul 2023] **"WebArena: A Realistic Web Environment for Building Autonomous Agents."** *Shuyan Zhou (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.13854)] [[code](https://github.com/web-arena-x/webarena)] [[project page](https://webarena.dev)]
