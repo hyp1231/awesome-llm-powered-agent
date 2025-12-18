@@ -301,6 +301,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 * ![Auto-GPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 * ![LangChain Stars](https://img.shields.io/github/stars/langchain-ai/langchain) [🦜️🔗 LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
+* ![PraisonAI Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI) [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, fastest agent instantiation (3.77μs), 100+ LLM support, MCP integration, agentic workflows, and both Python & JavaScript SDKs.
 * ![GPT Engineer Stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer) [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 * ![MetaGPT Stars](https://img.shields.io/github/stars/geekan/MetaGPT) [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo.
 * ![BabyAGI Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi) [BabyAGI](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
