@@ -232,6 +232,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * [Aug 2023] **"Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges."** *Sivan Schwartz (IBM Research) et al.* AutoMate @ IJCAI 2023. [[paper](https://arxiv.org/abs/2308.05391)]
 
 ### Human Interaction Simulation
+* [May 2025] **"Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems."** *Song Jin (RUC) et al.* EMNLP 2025. [[paper](https://aclanthology.org/2025.emnlp-main.956)]
 * [Apr 2025] **"SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2504.12722)]
 * [Dec 2024] **"OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis."** *Qiushi Sun (HKU & Shanghai AI Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2412.19723)]
 * [Dec 2024] **"Generative Adversarial Reviews: When LLMs Become the Critic."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2412.10415)]
