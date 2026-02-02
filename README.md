@@ -304,6 +304,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * ![GPT Engineer Stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer) [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 * ![MetaGPT Stars](https://img.shields.io/github/stars/geekan/MetaGPT) [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo.
 * ![BabyAGI Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi) [BabyAGI](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
+* ![AgentFund Stars](https://img.shields.io/github/stars/RioBot-Grind/agentfund) [AgentFund](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base.
 * ![OS-Copilot Stars](https://img.shields.io/github/stars/OS-Copilot/OS-Copilot) [L2MAC](https://github.com/OS-Copilot/OS-Copilot) - A self-improving conversational agent integrated into the operating system to automate daily tasks.
 * ![L2MAC Stars](https://img.shields.io/github/stars/samholt/L2MAC) [L2MAC](https://github.com/samholt/l2mac) - 🚀 The LLM Automatic Computer Framework: L2MAC
 * ![Yacana Stars](https://img.shields.io/github/stars/rememberSoftwares/yacana) [Yacana](https://github.com/rememberSoftwares/yacana) - 🔭🦙 Powering opensource LLMs with multi-agent chats and builing workflows.
