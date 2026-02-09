@@ -315,6 +315,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * ![GPTeam Stars](https://img.shields.io/github/stars/101dotxyz/GPTeam) [GPTeam](https://github.com/101dotxyz/GPTeam) - An open-source multi-agent simulation.
 * ![ChatArena Stars](https://img.shields.io/github/stars/chatarena/chatarena) [🏟 ChatArena](https://github.com/chatarena/chatarena) - Multi-agent language game environments for LLMs.
 * ![AgentVerse Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse) [🤖 AgentVerse 🪐](https://github.com/OpenBMB/AgentVerse) - A flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
+* ![SWARM Stars](https://img.shields.io/github/stars/swarm-ai-safety/swarm) [SWARM](https://github.com/swarm-ai-safety/swarm) - A research framework for studying emergent risks and governance in multi-agent LLM systems, featuring probabilistic safety metrics, configurable governance levers, and first-class LLM agent support.
 
 ## Perspectives
 * [Language agents: a critical evolutionary step of artificial intelligence](https://yusu.substack.com/p/language-agents) - Yu Su (OSU), Sep 5, 2023.
