@@ -297,6 +297,9 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ## Open-Source Projects
 
+- [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit) — Alignment, safety & cognitive architecture for autonomous agents. Six zero-dep Python modules: membrane security, epistemic tagger, self-audit, agent discovery, cognitive architecture (The Loom), collective cognition (The Choir).
+
+
 ### Autonomous Task Solver Projects
 
 * ![Auto-GPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
