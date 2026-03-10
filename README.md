@@ -308,6 +308,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * ![L2MAC Stars](https://img.shields.io/github/stars/samholt/L2MAC) [L2MAC](https://github.com/samholt/l2mac) - 🚀 The LLM Automatic Computer Framework: L2MAC
 * ![Yacana Stars](https://img.shields.io/github/stars/rememberSoftwares/yacana) [Yacana](https://github.com/rememberSoftwares/yacana) - 🔭🦙 Powering opensource LLMs with multi-agent chats and builing workflows.
 * ![Saplings Stars](https://img.shields.io/github/stars/shobrook/saplings) [Saplings](https://github.com/shobrook/saplings) – 🌳 Build smarter agents using tree search.
+* ![Lumen Stars](https://img.shields.io/github/stars/omxyz/lumen) [Lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support.
 
 ### Multi-Agent Simulation Projects
 
