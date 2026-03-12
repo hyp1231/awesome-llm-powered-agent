@@ -14,6 +14,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 -----
 
+- [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database, just git push/pull. MIT.
 - [Papers](#papers)
   - [Autonomous Task Solver](#autonomous-task-solver)
     - [General Reasoning & Planning & Tool Using](#general-reasoning--planning--tool-using)
