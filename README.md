@@ -111,7 +111,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Framework & Open-Source
 
-
+* [Feb 2026] **"AnimaWorks: Organization-as-Code for Autonomous AI Agents."** [[code](https://github.com/xuiltul/animaworks)]
 * [Feb 2025] **"The Ann Arbor Architecture for Agent-Oriented Programming."** *Wei Dong* arxiv. [[paper](https://arxiv.org/abs/2502.09903)] [[code](https://github.com/aaalgo/postline_0.1)]
 * 🔥 [Oct 2023] **"OpenAgents: An Open Platform for Language Agents in the Wild."** *Tianbao Xie (HKU & XLang Lab) et al.* arxiv. [[paper](https://arxiv.org/abs/2310.10634)] [[code](https://github.com/xlang-ai/OpenAgents)]
 * 🔥 [Sep 2023] **"AutoAgents: A Framework for Automatic Agent Generation."** *Guangyao Chen (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/LinkSoul-AI/AutoAgents)]
