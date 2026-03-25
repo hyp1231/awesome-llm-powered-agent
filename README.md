@@ -109,6 +109,10 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [May 2023] **"Agreement and Statistical Efficiency in Bayesian Perception Models."** *Yash Deshpande (MIT) et al.* arXiv. [[paper](https://arxiv.org/abs/2205.11561)]
 * [May 2023] **"Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback."** *Yao Fu (U of Edinburgh) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.10142)] [[code](https://github.com/FranxYao/GPT-Bargaining)]
 
+#### Memory & Context
+
+* [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. VSCode extension + CLI + MCP server. Free.
+
 #### Framework & Open-Source
 
 
