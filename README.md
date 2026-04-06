@@ -37,6 +37,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 - [Perspectives](#perspectives)
 - [Other Related Sources](#other-related-sources)
 - [Acknowledgement](#acknowledgement)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested LLM-powered agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 
 ## Papers
 
