@@ -326,6 +326,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ## Other Related Sources
 
+* [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents. Indexes 1,400+ agent-first tools ranked by agentic readiness (MCP, OpenAPI, structured API signals). Available as MCP server.
 * [Personalized Generative AI](https://sites.google.com/view/pgai2023) @ CIKM'23
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers about LLM role playing, memory mechanism and LLM game playing.
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read papers on multiagents of LLMs.
