@@ -47,6 +47,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Reasoning & Planning & Tool Using
 * 📖 [May 2024] **"Can Graph Learning Improve Planning in LLM-based Agents?"** *Xixi Wu (CUHK) and Yifei Shen (MSRA) et al.* NeurIPS 2024. [[paper](https://arxiv.org/abs/2405.19119)] [[code](https://github.com/WxxShirley/GNN4TaskPlan)] [[chinese blog](https://zhuanlan.zhihu.com/p/936340518)]
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 * [May 2024] **"Offline Training of Language Model Agents with Functions as Learnable Weights."** *Shaokun Zhang (PSU) et al.* ICML 2024. [[paper](https://arxiv.org/pdf/2402.11359)] [[code](https://github.com/ag2ai/ag2/blob/main/notebook/agentchat_agentoptimizer.ipynb)]
 * 🔥 [Mar 2024] **"Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models
 ."** *Zehui Chen (USTC) et al.* arXiv. [[paper](https://arxiv.org/abs/2403.12881)] [[code](https://github.com/InternLM/Agent-FLAN)] [[project page](https://internlm.github.io/Agent-FLAN/)]
