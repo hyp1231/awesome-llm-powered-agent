@@ -14,6 +14,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 -----
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Papers](#papers)
   - [Autonomous Task Solver](#autonomous-task-solver)
     - [General Reasoning & Planning & Tool Using](#general-reasoning--planning--tool-using)
