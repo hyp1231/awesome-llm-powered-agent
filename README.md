@@ -112,6 +112,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 #### Framework & Open-Source
 
 
+* [Apr 2026] **"Bernstein: Multi-Agent Orchestrator for CLI Coding Agents."** *Open-source project.* [[code](https://github.com/sipyourdrink-ltd/bernstein)] [[project page](https://bernstein.run)] — Deterministic Python scheduler that coordinates 37 CLI coding agents (Claude Code, Codex CLI, Gemini CLI, OpenHands, Cursor, Aider, and 31 more) in parallel git worktrees, with MCP server, file-based state, quality gates, and cost tracking.
 * [Feb 2025] **"The Ann Arbor Architecture for Agent-Oriented Programming."** *Wei Dong* arxiv. [[paper](https://arxiv.org/abs/2502.09903)] [[code](https://github.com/aaalgo/postline_0.1)]
 * 🔥 [Oct 2023] **"OpenAgents: An Open Platform for Language Agents in the Wild."** *Tianbao Xie (HKU & XLang Lab) et al.* arxiv. [[paper](https://arxiv.org/abs/2310.10634)] [[code](https://github.com/xlang-ai/OpenAgents)]
 * 🔥 [Sep 2023] **"AutoAgents: A Framework for Automatic Agent Generation."** *Guangyao Chen (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/LinkSoul-AI/AutoAgents)]
