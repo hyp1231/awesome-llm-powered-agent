@@ -76,6 +76,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * 🔥📖 [Oct 2022] **"ReAct: Synergizing Reasoning and Acting in Language Models."** *Shunyu Yao (Princeton & Google Brain) et al.* ICLR 2023. [[paper](https://arxiv.org/abs/2210.03629)] [[code](https://github.com/ysymyth/ReAct)] [[project page](https://react-lm.github.io)]
 
 #### Multi-Agent Cooperation
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — 🤖 AI 监控 AI。全球首个由 AI 自身驱动开发的 Agent 监控系统。Vue3 前端 + Node.js 后端，开箱即用，Demo → http://47.109.47.116/ ![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)
+
 * [Aug 2024] **"MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems"** Qian Wang (NUS) et al.* arXiv. [[paper](https://arxiv.org/abs/2408.09955)] 
 * [May 2024] **"Conformity, Confabulation, and Impersonation: Persona Inconstancy in Multi-Agent LLM Collaboration."** Razan Baltaji (UIUC) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.05036)] [[code](https://github.com/baltaci-r/CulturedAgents)]
 * [April 2024] **"CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving."** Pei Chen (TAMU) et al.* NAACL 2024. [[paper](https://arxiv.org/abs/2404.17729)] [[code](https://github.com/amazon-science/comm-prompt)]
