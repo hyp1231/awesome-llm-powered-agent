@@ -128,6 +128,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 * [Sep 2023] **"You Only Look at Screens: Multimodal Chain-of-Action Agents."** *Zhuosheng Zhang (SJTU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.11436)] [[code](https://github.com/cooelf/Auto-UI)]
 * [Sep 2023] **"LASER: LLM Agent with State-Space Exploration for Web Navigation."** *Kaixin Ma (Tencent) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.08172)] [[code](https://github.com/Mayer123/LASER)]
+* 🔥 [May 2026] **"ClawBench: Can AI Agents Complete Everyday Online Tasks?"** *Yuxuan Zhang (UBC) et al.* arXiv. [[paper](https://arxiv.org/abs/2604.08523)] [[code](https://github.com/reacher-z/ClawBench)] [[project page](https://claw-bench.com)] [[dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench)]
 * 🔥 [Jul 2023] **"WebArena: A Realistic Web Environment for Building Autonomous Agents."** *Shuyan Zhou (CMU) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.13854)] [[code](https://github.com/web-arena-x/webarena)] [[project page](https://webarena.dev)]
 * [Jul 2023] **"A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis."** *Izzeddin Gur (DeepMind) et al.* arXiv. [[paper](https://arxiv.org/abs/2307.12856)]
 * 🔥📖 [Jun 2023] **"Mind2Web: Towards a Generalist Agent for the Web."** *Xiang Deng (OSU) et al.* NeurIPS 2023. [[paper](https://arxiv.org/abs/2306.06070)] [[code](https://github.com/OSU-NLP-Group/Mind2Web)] [[project page](https://osu-nlp-group.github.io/Mind2Web)]
