@@ -329,6 +329,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * [Personalized Generative AI](https://sites.google.com/view/pgai2023) @ CIKM'23
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers about LLM role playing, memory mechanism and LLM game playing.
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read papers on multiagents of LLMs.
+* [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured database of 4,587+ AI models across 95 providers. Includes 1,080 agentic models (tool_call + reasoning) with pricing and capabilities. [Interactive catalog](https://i-need-token.github.io/ai-models/)
 * [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - A curated list of awesome LLM agents.
 
 ## Acknowledgement
