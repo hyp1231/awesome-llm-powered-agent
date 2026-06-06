@@ -326,6 +326,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ## Other Related Sources
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust + receipt layer MCP server for AI agents on Solana. Pre-dispatch trust gating, on-chain scoring, and signed V5 trust receipts via x402 micropayment. Zero-install: `https://intel.twzrd.xyz/mcp` (Streamable HTTP).
 * [Personalized Generative AI](https://sites.google.com/view/pgai2023) @ CIKM'23
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers about LLM role playing, memory mechanism and LLM game playing.
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read papers on multiagents of LLMs.
