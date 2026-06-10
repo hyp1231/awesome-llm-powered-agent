@@ -316,6 +316,10 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * ![ChatArena Stars](https://img.shields.io/github/stars/chatarena/chatarena) [🏟 ChatArena](https://github.com/chatarena/chatarena) - Multi-agent language game environments for LLMs.
 * ![AgentVerse Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse) [🤖 AgentVerse 🪐](https://github.com/OpenBMB/AgentVerse) - A flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
 
+### Agent Security Projects
+
+* ![Agent Memory Guard Stars](https://img.shields.io/github/stars/OWASP/www-project-agent-memory-guard) [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - 🛡️ Runtime defense against memory poisoning attacks (OWASP ASI06) in AI agent memory stores (Mem0, Zep, ChromaDB).
+
 ## Perspectives
 * [Language agents: a critical evolutionary step of artificial intelligence](https://yusu.substack.com/p/language-agents) - Yu Su (OSU), Sep 5, 2023.
 * [Introducing XLang: An Open-Source Framework for Building Language Model Agents via Executable Language Grounding](https://www.xlang.ai/blog/xlang-intro) - XLANG Lab, Aug 9, 2023.
