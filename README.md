@@ -232,6 +232,10 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * [Aug 2023] **"Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges."** *Sivan Schwartz (IBM Research) et al.* AutoMate @ IJCAI 2023. [[paper](https://arxiv.org/abs/2308.05391)]
 
 ### Human Interaction Simulation
+* [Jun 2026] **"PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2606.05697)]
+* [Apr 2026] **"Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2604.09549)]
+* [Jan 2026] **"AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2601.00930)]
+* [Jun 2025] **"CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2506.21805)]
 * [Apr 2025] **"SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2504.12722)]
 * [Dec 2024] **"OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis."** *Qiushi Sun (HKU & Shanghai AI Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2412.19723)]
 * [Dec 2024] **"Generative Adversarial Reviews: When LLMs Become the Critic."** *Nicolas Bougie (Woven by Toyota) et al.* arXiv. [[paper](https://arxiv.org/abs/2412.10415)]
