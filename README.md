@@ -308,6 +308,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * ![L2MAC Stars](https://img.shields.io/github/stars/samholt/L2MAC) [L2MAC](https://github.com/samholt/l2mac) - 🚀 The LLM Automatic Computer Framework: L2MAC
 * ![Yacana Stars](https://img.shields.io/github/stars/rememberSoftwares/yacana) [Yacana](https://github.com/rememberSoftwares/yacana) - 🔭🦙 Powering opensource LLMs with multi-agent chats and builing workflows.
 * ![Saplings Stars](https://img.shields.io/github/stars/shobrook/saplings) [Saplings](https://github.com/shobrook/saplings) – 🌳 Build smarter agents using tree search.
+* ![OpenClacky Stars](https://img.shields.io/github/stars/clacky-ai/open-clacky) [OpenClacky](https://openclacky.com) ([GitHub](https://github.com/clacky-ai/open-clacky)) - The most token-efficient open-source AI agent. Achieves 93.8% Prompt Cache hit rate and ~0.8× the cost of Claude Code via frozen system prompt, dual cache markers, and Insert-then-Compress. BYOK, MIT, 16 tools, Skill extensions, IM integration.
 
 ### Multi-Agent Simulation Projects
 
