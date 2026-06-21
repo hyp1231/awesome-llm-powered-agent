@@ -289,6 +289,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Survey & Tutorial
 
+* [Mar 2026] **"Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime."** *Chaoyue He et al.* Preprints. [[paper](https://www.preprints.org/manuscript/202603.1756/v2)]
 * [Sep 2023] **"Natural Language based Context Modeling and Reasoning with LLMs: A Tutorial."** *Haoyi Xiong (Baidu) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.15074)]
 * [Sep 2023] **"An In-depth Survey of Large Language Model-based Artificial Intelligence Agents."** *Pengyu Zhao (BJTU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.14365)]
 * 🔥 [Sep 2023] **"The Rise and Potential of Large Language Model Based Agents: A Survey."** *Zhiheng Xi (FDU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.07864)] [[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
