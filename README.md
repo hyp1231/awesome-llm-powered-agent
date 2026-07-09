@@ -321,6 +321,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * [Introducing XLang: An Open-Source Framework for Building Language Model Agents via Executable Language Grounding](https://www.xlang.ai/blog/xlang-intro) - XLANG Lab, Aug 9, 2023.
 * [What are GPT Agents? A deep dive into the AI interface of the future](https://logankilpatrick.medium.com/what-are-gpt-agents-a-deep-dive-into-the-ai-interface-of-the-future-3c376dcb0824) - Learn why Agents are a core part of the future of AI, Logan Kilpatrick (OpenAI), Jul 25, 2023.
 * [Language Agents in the Digital World: Opportunities and Risks](https://princeton-nlp.github.io/language-agent-impact) - Shunyu Yao (Princeton) et al., Jul 24, 2023.
+* [Proceedings of the First (and Last) Intent-Inference Conference](https://dev.to/rxdt/proceedings-of-the-first-and-last-intent-inference-conference-24a5) - A reproducible case study where AI agents built spaCy model recommenders, then a fresh AI peer-review panel rejected all three. [[repo](https://github.com/rxdt/inference_conference)]
 * [KokoMind: Can LLMs Understand Social Interactions?](https://chats-lab.github.io/KokoMind/) - Imagine an AI 🤖 at a cocktail party 🍻, Weiyan Shi (Columbia) et al., Jul, 2023
 * [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent) - Amazing blog by Lilian Weng (OpenAI), Jun 23, 2023.
 
