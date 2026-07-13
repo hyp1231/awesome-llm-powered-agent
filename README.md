@@ -112,6 +112,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 #### Framework & Open-Source
 
 
+* 🔥 [Oct 2025] **"VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents."** *Kangrui Wang (Northwestern) et al.* NeurIPS 2025. [[paper](https://arxiv.org/abs/2510.16907)] [[code](https://github.com/mll-lab-nu/VAGEN)] [[project page](https://vagen-ai.github.io/)]
 * [Feb 2025] **"The Ann Arbor Architecture for Agent-Oriented Programming."** *Wei Dong* arxiv. [[paper](https://arxiv.org/abs/2502.09903)] [[code](https://github.com/aaalgo/postline_0.1)]
 * 🔥 [Oct 2023] **"OpenAgents: An Open Platform for Language Agents in the Wild."** *Tianbao Xie (HKU & XLang Lab) et al.* arxiv. [[paper](https://arxiv.org/abs/2310.10634)] [[code](https://github.com/xlang-ai/OpenAgents)]
 * 🔥 [Sep 2023] **"AutoAgents: A Framework for Automatic Agent Generation."** *Guangyao Chen (PKU) et al.* arXiv. [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/LinkSoul-AI/AutoAgents)]
