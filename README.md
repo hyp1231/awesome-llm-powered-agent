@@ -151,6 +151,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 * [May 2023] **"Semantically Aligned Task Decomposition in Multi-Agent Reinforcement Learning."** *Wenhao Li (CUHK) et al.* arXiv. [[paper](https://arxiv.org/abs/2305.10865)]
 
 ##### Robotics & Embodied AI
+* [May 2026] **"Planning with the Views via Scene Self-Exploration."** *Kangrui Wang (Northwestern) et al.* arXiv. [[paper](https://arxiv.org/abs/2605.29563)] [[code](https://github.com/mll-lab-nu/ViewAgent)] [[project page](https://viewagent.github.io/)]
 * [Mar 2025] **"LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language"**, *Kun Chu (UHH) et al.* arXiv. [[Paper](https://arxiv.org/abs/2503.17309)], [[Code](https://github.com/Kchu/LLM-MAP)]
 * [Nov 2024] **"LABOR Agent: Large Language Models for Orchestrating Bimanual Robots"**, *Kun Chu (UHH) et al.* Humanoids 2024. [[Paper](https://arxiv.org/abs/2404.02018)] [[Website](https://labor-agent.github.io/)], [[Code](https://github.com/Kchu/LABOR-Agent)]
 * [Jul 2024] **"Odyssey: Empowering Agents with Open-World Skills."** *Shunyu Liu (Zhejiang University) et al.* arXiv. [[paper](https://arxiv.org/abs/2407.15325)] [[code](https://github.com/zju-vipa/Odyssey)]
