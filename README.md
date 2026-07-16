@@ -111,6 +111,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Framework & Open-Source
 
+* [Jun 2026] **"Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy."** *Youran Sun (UMD) et al.* arXiv. [[paper](https://arxiv.org/abs/2606.24177)] [[code](https://github.com/AutoResearch-Factory/Agon)]
 
 * [Feb 2025] **"The Ann Arbor Architecture for Agent-Oriented Programming."** *Wei Dong* arxiv. [[paper](https://arxiv.org/abs/2502.09903)] [[code](https://github.com/aaalgo/postline_0.1)]
 * 🔥 [Oct 2023] **"OpenAgents: An Open Platform for Language Agents in the Wild."** *Tianbao Xie (HKU & XLang Lab) et al.* arxiv. [[paper](https://arxiv.org/abs/2310.10634)] [[code](https://github.com/xlang-ai/OpenAgents)]
@@ -194,6 +195,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ##### Other Applications
 
 * [Dec 2024] **SEAGraph: Unveiling the Whole Story of Paper Review Comments** *Jianxiang Yu (ECNU) et al.* arXiv. [[paper](https://arxiv.org/pdf/2412.11939)] [[code](https://github.com/ecnu-sea/seagraph)]
+* [Apr 2025] **"OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents."** *Raghav Thind (UMD) et al.* arXiv. [[paper](https://arxiv.org/abs/2504.16918)]
 * [Jun 2024] **Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis** *Jianxiang Yu (ECNU) et al.* EMNLP 2024. [[paper](https://arxiv.org/abs/2407.12857)] [[code](https://github.com/ecnu-sea/sea)] [[model](https://huggingface.co/ECNU-SEA)]
 * [May 2024] **"AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments"** *Samuel Schmidgall (JHU & Stanford) et al.* arXiv. [[paper](https://arxiv.org/pdf/2405.07960)] [[code](https://github.com/samuelschmidgall/agentclinic)] [[project page](https://agentclinic.github.io/)]
 * [Apr 2024] **"ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning"** *Ling Yue (RPI) et al.* arXiv. [[paper](https://arxiv.org/abs/2404.14777)] [[code](https://github.com/LeoYML/ClinicalAgent)]
