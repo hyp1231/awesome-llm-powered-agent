@@ -307,6 +307,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * ![OS-Copilot Stars](https://img.shields.io/github/stars/OS-Copilot/OS-Copilot) [L2MAC](https://github.com/OS-Copilot/OS-Copilot) - A self-improving conversational agent integrated into the operating system to automate daily tasks.
 * ![L2MAC Stars](https://img.shields.io/github/stars/samholt/L2MAC) [L2MAC](https://github.com/samholt/l2mac) - 🚀 The LLM Automatic Computer Framework: L2MAC
 * ![Yacana Stars](https://img.shields.io/github/stars/rememberSoftwares/yacana) [Yacana](https://github.com/rememberSoftwares/yacana) - 🔭🦙 Powering opensource LLMs with multi-agent chats and builing workflows.
+* ![DarkMoon Stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon) [DarkMoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentester (MCP host) that drives Claude or a local model to orchestrate 80+ offensive-security tools, with a local Privacy Gateway.
 * ![Saplings Stars](https://img.shields.io/github/stars/shobrook/saplings) [Saplings](https://github.com/shobrook/saplings) – 🌳 Build smarter agents using tree search.
 
 ### Multi-Agent Simulation Projects
