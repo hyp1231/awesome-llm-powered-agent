@@ -298,6 +298,8 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 ## Open-Source Projects
 
 ### Autonomous Task Solver Projects
+* [Grinta](https://github.com/josephsenior/Grinta-Coding-Agent) - A local-first autonomous coding agent that plans, edits, runs commands, recovers from failures, and completes long software tasks.
+
 
 * ![Auto-GPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 * ![LangChain Stars](https://img.shields.io/github/stars/langchain-ai/langchain) [🦜️🔗 LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
