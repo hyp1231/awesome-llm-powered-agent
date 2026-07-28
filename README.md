@@ -274,6 +274,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 
 ### Benchmark
 
+* [Apr 2026] **"ClawBench: Can AI Agents Complete Everyday Online Tasks?"** *Yuxuan Zhang et al.* arXiv. [[paper](https://arxiv.org/abs/2604.08523)] [[code](https://github.com/TIGER-AI-Lab/ClawBench)] [[project page](https://claw-bench.com/)]
 * 📖 [Jul 2024] **"AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents."** *Harsh Trivedi (Stony Brook University) et al.* ACL 2024. [[paper](https://arxiv.org/abs/2407.18901)] [[code](https://github.com/stonybrooknlp/appworld)] [[project page](https://appworld.dev/)]
 * [Dec 2023] **"T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step."** *Zehui Chen (USTC, Shanghai AI Lab) et al.* arXiv. [[paper](https://arxiv.org/abs/2312.14033)] [[code](https://github.com/open-compass/T-Eval)] [[project page](https://open-compass.github.io/T-Eval/)]
 * [Nov 2023] **"MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration."** *Lin Xu et al.(NUS, ByteDance, Stanford & UC Berkeley) * arXiv. [[paper](https://arxiv.org/abs/2311.08562)] [[Project Page](https://zhiyuanhubj.github.io/MAgIC/)]
