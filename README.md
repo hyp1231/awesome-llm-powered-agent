@@ -193,6 +193,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
+* [Aug 2026] **"Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report."** *TaoLive AIGC LLM Team (Yuhan Sun et al.).* arXiv. [[paper](https://arxiv.org/abs/2608.15763)] [[project page](https://sunyuhan19981208.github.io/Harness-Aware-Training/)]
+
 * [Dec 2024] **SEAGraph: Unveiling the Whole Story of Paper Review Comments** *Jianxiang Yu (ECNU) et al.* arXiv. [[paper](https://arxiv.org/pdf/2412.11939)] [[code](https://github.com/ecnu-sea/seagraph)]
 * [Jun 2024] **Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis** *Jianxiang Yu (ECNU) et al.* EMNLP 2024. [[paper](https://arxiv.org/abs/2407.12857)] [[code](https://github.com/ecnu-sea/sea)] [[model](https://huggingface.co/ECNU-SEA)]
 * [May 2024] **"AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments"** *Samuel Schmidgall (JHU & Stanford) et al.* arXiv. [[paper](https://arxiv.org/pdf/2405.07960)] [[code](https://github.com/samuelschmidgall/agentclinic)] [[project page](https://agentclinic.github.io/)]
