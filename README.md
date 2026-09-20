@@ -309,6 +309,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * ![Yacana Stars](https://img.shields.io/github/stars/rememberSoftwares/yacana) [Yacana](https://github.com/rememberSoftwares/yacana) - 🔭🦙 Powering opensource LLMs with multi-agent chats and builing workflows.
 * ![Saplings Stars](https://img.shields.io/github/stars/shobrook/saplings) [Saplings](https://github.com/shobrook/saplings) – 🌳 Build smarter agents using tree search.
 
+* ![Orkas Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas) [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce with a Commander coordinating specialist agents through one chat.
 ### Multi-Agent Simulation Projects
 
 * ![AI Town Stars](https://img.shields.io/github/stars/a16z-infra/ai-town) [AI Town 🏠💻💌](https://github.com/a16z-infra/ai-town) - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
