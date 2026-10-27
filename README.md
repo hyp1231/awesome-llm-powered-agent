@@ -330,6 +330,7 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers about LLM role playing, memory mechanism and LLM game playing.
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read papers on multiagents of LLMs.
 * [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - A curated list of awesome LLM agents.
+* [awesome-ai-coding-tools](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) - Curated 3-tier taxonomy of software engineering agents, Model Context Protocol (MCP) servers, local GPU sizing calculators, and SWE-bench benchmarks.
 
 ## Acknowledgement
 
