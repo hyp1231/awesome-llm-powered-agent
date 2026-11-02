@@ -330,6 +330,15 @@ Autonomous Agent for EDA."** *Zhuolun He (CUHK & Shanghai AI Lab) et al.* arXiv.
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers about LLM role playing, memory mechanism and LLM game playing.
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read papers on multiagents of LLMs.
 * [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - A curated list of awesome LLM agents.
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+* [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+* [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+* [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+* [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+* [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s widescreen solo dance (Paid from $7.99; not affiliated with Riot Games or K/DA)
+* [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99)
+* [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99)
 
 ## Acknowledgement
 
